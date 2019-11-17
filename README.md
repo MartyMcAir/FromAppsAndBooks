@@ -1,4 +1,2 @@
-# Jn-IDE-AndroidSample
- From Android App java Examples _ 
-Here from Jn-IDE-AndroidSample _
-and from aJVDroidSample _ 
+# java Examples From Android Apps:  
+Jn-IDE-AndroidSample & aJVDroidSample
