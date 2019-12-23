@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apteka_1715/Drug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apteka_1715/DrugsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apteka_1715/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apteka_1715/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud2_1711/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud2_1711/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud2_1711/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud2_1711/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud_1710/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud_1710/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud_1710/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleCrud_1710/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/NotMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/NotMy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/SolutionCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/SolutionCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crossword_2027_Z/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericReflectionQuery_2309/AbstractDbSelectExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericReflectionQuery_2309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericReflectionQuery_2309/Условие.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HippoDrome_2113/Hippodrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HippoDrome_2113/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HippoDrome_2113/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/ImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/common/BmpReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/common/ImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/common/ImageTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/common/JpgReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImageReader_1631/common/PngReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Hrivna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Ruble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/USD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiValuteStash_1417/Условие.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/OurUncaughtExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/StringForFirstThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/StringForOtherThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/StringForSecondThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/Tmp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_1712/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/NotMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/NotMy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/NotMy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/NotMy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/AbstractRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Attackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/BodyPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Defensable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotBattle_1328/Условие.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/KeyboardObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/SnakeDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/SnakeSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnaikConsole_2312/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/RepkaItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/RepkaStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Turnip_1327/Условие.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/DirectedMultighraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy8BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMy9Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMyOth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/NotMyOth2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/SimpleMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Tmp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Tmp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Tmp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/TryBubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/WordInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordChain_2209_Z/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_Other/LetterSwapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_Other/SubtractAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_Other/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/ComparatorStock_2412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsExtends_2406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPbooksAuthor_1504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPcatsRelativies_0621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPextendsImplements_1416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPfamilyTree_0824.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinstanceOfPerson_1411.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface2_1322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface_1320.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPprotectedPrivate_1526.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/CombinatoricsWords_0313.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicAxisCoordinates_0425.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicMaxFourNumbers_0419.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicMidleNumber_0441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicProductOfNumber_0308.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicPuzzleBrackets_0306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicPuzzleComment_0211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSameNumbers_0417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSeasonsOfYear_0411.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSecondsAfter_0133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSequenceOfRepeating_0812.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSerialNumber_0424.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSortNumbers_0420.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSumThreeDigits_0132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicThreeDigitNumber_0427.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicTrafficLights_0416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicTraficLighyMy_0416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathAmountDaysInYear_0414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathCelciumToForengeit_0130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathConsoleCube_0433.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathConsoleRectangle_0436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathMinThreeNumbers_0217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathMultiplicationTbl2_0314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathMultiplicationTbl_0434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPiOvalCircumference_0129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPointDistance_0609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPoolArea_0134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathTenPercent_0304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathTriangleRule_0415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathTriangle_0437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathValuteExchange_0303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfException/ExceptionFileName_0929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfException/ExceptionLog_0915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfException/ExceptionTenList_1419.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfException/ExceptonOfFile_1810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileCrudTable2_1828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileCrudTable_1827.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileEncryptDecryption_1826.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FilePartsIs_1825.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileSaveLoadNoSerializable2_2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileSaveLoadNoSerializable_2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileSerializableFindErr_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/HalfOfFile_1808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexDbRequest_2208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexFormat_2205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexPhoneNumber_2212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexPrintf_2204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexSplitFirst_2202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexSplitWords_2207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexTabulation_2203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexTag_1918.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAccepMakeProposal_1709.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAirPlane_1615.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAtomicArrayPlus_1722.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAtomicInteger_1628.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadComparableBeach_1714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadGamers_1627.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadJoinCats_1610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadJoinOrder_1629.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMessage_1632.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMidnightClock_1613.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMultipleJoinSort_1702.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadPolitical_1608.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRacing_1617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRecursive_1623.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadResultInMap_1823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadStopWatchRunner_1612.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSuperThreadForChilds_1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSwithcState_2504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadUncaughtExcDemon_2505.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/CastingPrimitive2_1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/CastingPrimitive_1006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/DateInSummer_0816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/DetermineNumbers_1519.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/DigitToWord_1924.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/FactorialNumbers_1531.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/FirstLatterUpperCase_0823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/HalfArrayCopy_0705.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/InvertedWords_2207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/LargestDivisorOfNumbers_1420.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/LetterCounter_1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/ListTenThousandsElem_0808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderEvenNumbers_1326.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderEvenSerialNumSymbols_1906.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsAlphabetical_0830.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsDigits_0930.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/PermutationOfLines_0720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/RoundNumbers_1820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/SameNames_0817.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/ShortLongString_0712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/SumAllValuesForName_1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/SymbolsCounterASCllOrder_1821.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/SymbolsCounter_1817.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_SingleTusks/VowelsConsonants_0923.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPAnonumClassContruct_2410/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPAnonumClassContruct_2410/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPAnonumClassContruct_2410/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/dao/mock/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/FakeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/MainModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/ModelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/model/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/view/EditUserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/view/UsersView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_MVC_3608/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_intrfImplExt_2404/HasHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_intrfImplExt_2404/HasWidth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_intrfImplExt_2404/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_intrfImplExt_2404/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOP_intrfImplExt_2404/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/JustAnInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/AbstractJeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Denim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Jeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Levis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPinnerClassMagazine_2409/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Sayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Sayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/SuperDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusCatDog_2408/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/MoreVariants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/MyFirstV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/OrigSol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JRushBofTheB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mat</find>
+      <find>Part</find>
+      <find>2018</find>
+      <find>вслепую</find>
+      <find>0308</find>
+      <find>Задача по алгоритмам</find>
+      <find>2026</find>
+      <find>2025</find>
+      <find>2027</find>
+      <find>2209</find>
+      <find>201</find>
+      <find>2201</find>
+      <find>произвед</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\a_SingleTusks</dir>
+      <dir>C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/a_SingleTusks/LogicTrafficLights_0416.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicTrafficLights_0416.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleTusks/MathPointDistance_0609.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPointDistance_0609.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleTusks/LogicSequenceOfRepeating_0812.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSequenceOfRepeating_0812.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleTusks/OrderEvenNumbers_1326.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathTriangleRule_0415.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathAmountDaysInYear_0414.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSeasonsOfYear_0411.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSumThreeDigits_0132.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSecondsAfter_0133.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathMultiplicationTbl2_0314.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/CombinatoricsWords_0313.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPoolArea_0134.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathSumFiveDigits_0309.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicPuzzleBrackets_0306.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathTenPercent_0304.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathValuteExchange_0303.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathMinThreeNumbers_0217.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicPuzzleComment_0211.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathCelciumToForengeit_0130.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPiOvalCircumference_0129.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicTraficLighyMy_0416.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicProductOfNumber_0308.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicMidleNumber_0441.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleOfRegex/RegexTag_1918.java" />
+        <option value="$PROJECT_DIR$/src/RetrievesInArray_2026/Solution.java" />
+        <option value="$PROJECT_DIR$/src/WordChain_2209/Solution.java" />
+        <option value="$PROJECT_DIR$/src/WordChain_2209_NotResolved/Solution.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveThreadShortStr_2201/Solution.java" />
+        <option value="$PROJECT_DIR$/src/ImageReader_1631/ImageReaderFactory.java" />
+        <option value="$PROJECT_DIR$/src/ImageReader_1631/Solution.java" />
+        <option value="$PROJECT_DIR$/src/WordChain_2209/NotMy7.java" />
+        <option value="$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Crossword_2027_Z/Solution.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleTusks/InvertedWords_2207.java" />
+        <option value="$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/Location.java" />
+        <option value="$PROJECT_DIR$/src/GenericReflectionQuery_2309/Solution.java" />
+        <option value="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClass_2406.java" />
+        <option value="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerExtendsCls_2406.java" />
+        <option value="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsExtends_2406.java" />
+        <option value="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsFieldMod_2405.java" />
+        <option value="$PROJECT_DIR$/src/OOPintrfAnonumusPuzzle_2405/Solution.java" />
+        <option value="$PROJECT_DIR$/src/OOPintrCatMouse_2407/Solution.java" />
+        <option value="$PROJECT_DIR$/src/a_SigleOfOOP/ComparatorStock_2412.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSwithcState_2504.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleOfThread/ThreadDaemon_2505.java" />
+        <option value="$PROJECT_DIR$/src/a_SingleOfThread/ThreadUncaughtExcDemon_2505.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1007" />
+    <option name="width" value="1560" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JRushBofTheB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JRushBofTheB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JRushBofTheB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JRushBofTheB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JRushBofTheB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JRushBofTheB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="a_SingleOfThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577035085434" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaRushTasks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="a_SingleOfThread" />
+      <recent name="OOP_MVC_3608.bean" />
+      <recent name="OOP_MVC_3608.controller" />
+      <recent name="OOP_MVC_3608.dao.mock" />
+      <recent name="OOP_MVC_3608.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\OOP_MVC_3608\model\service" />
+      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\OOP_MVC_3608\model" />
+      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\OOP_MVC_3608\view" />
+      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\OOP_MVC_3608" />
+      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\OOPextendsClass_2411" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OOPInnerClsFieldMod_2405">
+    <configuration name="FactorialNumbers_1531" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_SingleTusks.FactorialNumbers_1531" />
+      <module name="JRushBofTheB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_SingleTusks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JRushBofTheB" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPInnerClsFieldMod_2405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_SigleOfOOP.OOPInnerClsFieldMod_2405" />
+      <module name="JRushBofTheB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_SigleOfOOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnaikConsole_2312.Room" />
+      <module name="JRushBofTheB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SnaikConsole_2312.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericReflectionQuery_2309.Solution" />
+      <module name="JRushBofTheB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GenericReflectionQuery_2309.vo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOPInnerClsFieldMod_2405" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Room" />
+        <item itemvalue="Application.FactorialNumbers_1531" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="" />
+      <created>1575870620416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575870620416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="806" y="0" width="1248" height="830" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.2516835" />
+      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.13086914" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021008" side_tool="true" weight="0.13086914" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="DB Browser" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32618025" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ImageReader_1631/ImageReaderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SingleTusks/FactorialNumbers_1531.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/Tmp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/Tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/NotMy1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/NotMy4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/NotMy7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RetrievesInArray_2026_Z/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Crossword_2027_Z/Tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Crossword_2027_Z/Условие.txt">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Crossword_2027_Z/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="9" selection-start-line="6" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SingleTusks/InvertedWords_2207.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/KeyboardObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/SnakeDirection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/SnakeSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/Tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/Условие.txt">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnaikConsole_2312/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="139" column="20" selection-start-line="139" selection-start-column="20" selection-end-line="139" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/Условие.txt">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/AbstractDbSelectExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/NamedItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/Subscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/vo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenericReflectionQuery_2309/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPbooksAuthor_1504.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPcatsRelativies_0621.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPextendsImplements_1416.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPfamilyTree_0824.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface2_1322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface_1320.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPprotectedPrivate_1526.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsFieldMod_2405.java" />
+    <entry file="file://$PROJECT_DIR$/src/task2405/MyFirstV1.java" />
+    <entry file="file://$PROJECT_DIR$/src/task2405/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/OOPinnerClassMagzin_2409.java" />
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPinstanceOfPerson_1411.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsExtends_2406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="73" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrCatMouse_2407/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SigleOfOOP/ComparatorStock_2412.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="162" column="28" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordChain_2209_Z/DirectedMultighraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SingleOfThread/ThreadUncaughtExcDemon_2505.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_SingleOfThread/ThreadSwithcState_2504.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
