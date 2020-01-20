@@ -1,7 +1,7 @@
 package z_OOP_BiG_Pack.OOP_MVC_3608.view;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.ModelData;
+import z_OOP_BiG_Pack.OOP_MVC_3608.controller.Controller;
+import z_OOP_BiG_Pack.OOP_MVC_3608.model.ModelData;
 
 public interface View {
     void refresh(ModelData modelData);

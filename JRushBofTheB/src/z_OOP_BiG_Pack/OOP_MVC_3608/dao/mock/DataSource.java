@@ -1,6 +1,6 @@
 package z_OOP_BiG_Pack.OOP_MVC_3608.dao.mock;
 
-import com.javarush.task.task36.task3608.bean.User;
+import z_OOP_BiG_Pack.OOP_MVC_3608.bean.User;
 
 import java.util.LinkedList;
 import java.util.List;

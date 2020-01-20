@@ -1,8 +1,8 @@
 package z_OOP_BiG_Pack.OOP_MVC_3608.model.service;
 
-import com.javarush.task.task36.task3608.Util;
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.dao.UserDao;
+import z_OOP_BiG_Pack.OOP_MVC_3608.Util;
+import z_OOP_BiG_Pack.OOP_MVC_3608.bean.User;
+import z_OOP_BiG_Pack.OOP_MVC_3608.dao.UserDao;
 
 import java.util.ArrayList;
 import java.util.List;

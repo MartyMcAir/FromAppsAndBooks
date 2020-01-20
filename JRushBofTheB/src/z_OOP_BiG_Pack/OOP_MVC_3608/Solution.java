@@ -1,10 +1,10 @@
 package z_OOP_BiG_Pack.OOP_MVC_3608;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.MainModel;
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import z_OOP_BiG_Pack.OOP_MVC_3608.controller.Controller;
+import z_OOP_BiG_Pack.OOP_MVC_3608.model.MainModel;
+import z_OOP_BiG_Pack.OOP_MVC_3608.model.Model;
+import z_OOP_BiG_Pack.OOP_MVC_3608.view.EditUserView;
+import z_OOP_BiG_Pack.OOP_MVC_3608.view.UsersView;
 
 import java.util.Properties;
 

@@ -1,8 +1,8 @@
 package z_OOP_BiG_Pack.OOP_MVC_3608.controller;
 
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import z_OOP_BiG_Pack.OOP_MVC_3608.model.Model;
+import z_OOP_BiG_Pack.OOP_MVC_3608.view.EditUserView;
+import z_OOP_BiG_Pack.OOP_MVC_3608.view.UsersView;
 
 public class Controller { // соединяет модель с вьюхой
     private Model model;
