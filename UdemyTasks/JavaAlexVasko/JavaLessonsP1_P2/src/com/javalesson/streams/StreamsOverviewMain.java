@@ -14,8 +14,8 @@ import java.util.stream.Stream;
 
 public class StreamsOverviewMain {
 
-    private static List<Employee> employeeList = new ArrayList<>();
     private static List<Employee> secondList = new ArrayList<>();
+    private static List<Employee> employeeList = new ArrayList<>();
     private static Map<Integer, Employee> employeeMap = null;
 
     public static void main(String[] args) throws IOException {
@@ -69,10 +69,6 @@ public class StreamsOverviewMain {
 
 //        testParallelStream();
 
-
-
-
-
     }
 
     private static void testParallelStream() throws IOException {
@@ -100,17 +96,19 @@ public class StreamsOverviewMain {
     }
 
    private static <R> void groupByCriterion(Function<Employee, R> function){
-       Map<R, List<Employee>> collectedEmployees = employeeList.stream().collect(Collectors.groupingBy(function));
-       collectedEmployees.keySet().stream().forEach(e-> System.out.println(e+"\n" + collectedEmployees.get(e)));
+       Map<R, List<Employee>> collectedEmployees = employeeList.stream()
+       .collect(Collectors.groupingBy(function));
+       collectedEmployees.keySet().stream()
+       .forEach(e-> System.out.println(e+"\n" + collectedEmployees.get(e)));
    }
 
     private static void partitionByIncome() {
-        Map<Boolean, List<Employee>> collectedEmployees = employeeList.stream().collect(Collectors.partitioningBy(e -> e.getSalary() > 70000));
+        Map<Boolean, List<Employee>> collectedEmployees = employeeList.stream()
+        .collect(Collectors.partitioningBy(e -> e.getSalary() > 70000));
         System.out.println("Poor employees");
         System.out.println(collectedEmployees.get(false));
         System.out.println("Rich employees");
         System.out.println(collectedEmployees.get(true));
-
     }
 
 
@@ -144,7 +142,9 @@ public class StreamsOverviewMain {
 
         Integer[] ids = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20};
 
-        Optional<Employee> first = Stream.of(ids)
+        // т.е. берет массив нужных id в стрим и внутри стрима их перебирает
+        // для получения из мапы черех метод findById и далее в стриме из обрабатыв..
+        Optional<Employee> first = Stream.of(ids) 
                 .map(StreamsOverviewMain::findById)
                 .filter(Objects::nonNull)
                 .findFirst();

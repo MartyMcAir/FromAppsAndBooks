@@ -7,9 +7,9 @@ package a_SingleOfThread;
 //Не используя synchronized сделай так, чтобы количество сделанных и принятых предложений было одинаковым.
 //
 //        Требования:
-//        •	Класс Solution должен содержать нить MakeProposal.
-//        •	Класс Solution должен содержать нить AcceptProposal.
-//        •	Класс Solution должен содержать публичную статическую переменную int proposal.
+//        •	Класс Solution_3105 должен содержать нить MakeProposal.
+//        •	Класс Solution_3105 должен содержать нить AcceptProposal.
+//        •	Класс Solution_3105 должен содержать публичную статическую переменную int proposal.
 //        •	Программа не должна содержать synchronized методов или synchronized блоков.
 //        •	Переменная int proposal не должна находится в локальном кэше.
 public class ThreadAccepMakeProposal_1709 {

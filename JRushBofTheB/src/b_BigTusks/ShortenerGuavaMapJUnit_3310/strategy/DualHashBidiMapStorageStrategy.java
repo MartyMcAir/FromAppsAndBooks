@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310.strategy;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy;
 
 
 import org.apache.commons.collections4.bidimap.DualHashBidiMap;

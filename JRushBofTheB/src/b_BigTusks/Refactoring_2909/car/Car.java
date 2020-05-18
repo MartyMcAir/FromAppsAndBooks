@@ -53,9 +53,9 @@ public abstract class Car {
     public boolean isSummer(Date date, Date summerStart, Date summerEnd) {
         // My Version
 //        boolean res = false;
-//        long check = date.getTime(), start = summerStart.getTime(),
+//        long checkNext = date.getTime(), start = summerStart.getTime(),
 //                end = summerEnd.getTime();
-//        if (check >= start & check <= end) {
+//        if (checkNext >= start & checkNext <= end) {
 //            res = true;
 //        }
 //        return res;

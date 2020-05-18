@@ -1,4 +1,4 @@
-package com.javarush.task.task25.task2515;
+package b_BigTusks.ConsoleSpaceInvaders_2515;
 
 import javax.swing.*;
 import java.awt.*;

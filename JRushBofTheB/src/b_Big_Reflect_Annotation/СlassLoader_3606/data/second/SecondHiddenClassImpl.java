@@ -1,6 +1,6 @@
-package com.javarush.task.task36.task3606.data.second;
+package b_Big_Reflect_Annotation.СlassLoader_3606.data.second;
 
-import com.javarush.task.task36.task3606.HiddenClass;
+import b_Big_Reflect_Annotation.СlassLoader_3606.HiddenClass;
 
 public class SecondHiddenClassImpl implements HiddenClass {
     private SecondHiddenClassImpl() {

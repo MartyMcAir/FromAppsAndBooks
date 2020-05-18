@@ -1,11 +1,10 @@
-package com.javarush.task.task32.task3212;
+package z_OOP_BiG_Pack.ServiceLocator_3212;
 
-import com.javarush.task.task32.task3212.service.Service;
+//import com.javarush.task.task32.task3212.service.Service;
 
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class Cache {
     private List<Service> services;

@@ -17,12 +17,12 @@ import java.util.List;
 //        5.2. markTwainOutput для книг Марка Твена.
 //
 //        Требования:
-//        •	Класс Solution должен содержать public static класс MarkTwainBook.
+//        •	Класс Solution_3105 должен содержать public static класс MarkTwainBook.
 //        •	Класс MarkTwainBook должен быть потомком класса Book.
 //        •	В классе MarkTwainBook должен быть корректно реализован конструктор с одним параметром типа String (название книги).
 //        •	Конструктор класса MarkTwainBook должен вызывать конструктор класса предка (Book) с параметром "Mark Twain".
 //        •	Метод getBook в классе MarkTwainBook должен иметь тип возвращаемого значения MarkTwainBook и возвращать текущий объект.
-//        •	Класс Solution должен содержать public static класс AgathaChristieBook.
+//        •	Класс Solution_3105 должен содержать public static класс AgathaChristieBook.
 //        •	Класс AgathaChristieBook должен быть потомком класса Book.
 //        •	В классе AgathaChristieBook должен быть корректно реализован конструктор с одним параметром типа String (название книги).
 //        •	Конструктор класса AgathaChristieBook должен вызывать конструктор класса предка (Book) с параметром "Agatha Christie".

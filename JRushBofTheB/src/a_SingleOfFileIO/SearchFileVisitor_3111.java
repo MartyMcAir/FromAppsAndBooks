@@ -1,16 +1,47 @@
-package com.javarush.task.task31.task3111;
+package a_SingleOfFileIO;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.FileVisitResult;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.SimpleFileVisitor;
+import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SearchFileVisitor extends SimpleFileVisitor<Path> {
+// https://javarush.ru/tasks/com.javarush.task.task31.task3111#discussion
+// Давай реализуем настраиваемый поиск файлов в директории.
+//Просмотри интерфейс java.nio.file.FileVisitor и его базовую реализацию java.nio.file.SimpleFileVisitor.
+//Во время поиска по дереву файлов с помощью метода Files.walkFileTree(Path start, FileVisitor<? super Path> visitor)
+//мы используем объект FileVisitor для выполнения необходимых операций над найденными объектами Path.
+//
+//Наш класс для поиска будет называться SearchFileVisitor и расширять SimpleFileVisitor.
+//
+//Поиск можно будет выполнять по таким критериям:
+//- выражение, встречающееся в названии файла (String);
+//- выражение, встречающееся в содержимом файла (String);
+//- максимальный и минимальный размер файла (int).
+//Можно задавать либо один, либо сразу несколько критериев для поиска.
+
+// сам сделал _ интересная задача взомжно стоит попробовать ее реализовать через паттерн Цепочка Ответственности
+// Потенциально.., ещё её можно решить, используя паттерн Цепочка обязанностей, или иcпользуя Package java.util.function - с лямбдами..
+public class SearchFileVisitor_3111 extends SimpleFileVisitor<Path> {
+    public static void main(String[] args) throws IOException {
+        SearchFileVisitor_3111 searchFileVisitor = new SearchFileVisitor_3111();
+        // Можно задавать либо один, либо сразу несколько критериев для поиска.
+        searchFileVisitor.setPartOfName("amigo"); // встречающееся в названии файла
+        searchFileVisitor.setPartOfContent("programmer"); // встречающееся в содержимом файла
+        searchFileVisitor.setMinSize(500); // минимал размер файла
+        searchFileVisitor.setMaxSize(10000); // максимал размер файла
+
+        Files.walkFileTree(Paths.get("D:/SecretFolder"), searchFileVisitor);
+
+        List<Path> foundFiles = searchFileVisitor.getFoundFiles();
+        for (Path file : foundFiles) {
+            System.out.println(file);
+        }
+    }
+
+
+
     // Можно задавать либо один, либо сразу несколько критериев для поиска.
     boolean isMinSize = false, isMaxSize = false, isPartOfContent = false, isPartOfName = false;
 

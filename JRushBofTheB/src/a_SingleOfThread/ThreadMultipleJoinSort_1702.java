@@ -11,7 +11,7 @@ import java.util.List;
 //        2. Создай public static нить SortThread, которая в методе run отсортирует статический массив testArray используя метод sort.
 //
 //        Требования:
-//        •	Класс Solution должен содержать public static класс SortThread.
+//        •	Класс Solution_3105 должен содержать public static класс SortThread.
 //        •	Класс SortThread должен быть нитью.
 //        •	В методе run класса SortThread должен вызывать метод sort() с параметром testArray.
 //        •	Программа должна выводить текст на экран.

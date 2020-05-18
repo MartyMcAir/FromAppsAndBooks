@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3507.data;
+package b_Big_Reflect_Annotation.ClassLoaderTree_3507.data;
 
 public class Elephant {
     private Elephant() {

@@ -1,4 +1,4 @@
-package com.javarush.task.task38.task3810;
+package b_Big_Reflect_Annotation.AnnotationI_InAnnotation_3810;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -16,7 +16,7 @@ public @interface Revision {
 //    Author authors();   // неверный вариант т.к. authors = {@Author(..
     Author[] authors() default {};   // без default - не работает
 
-//    String comment();   // my _ ругается на осутствие поля comment третий блок @Revision в классе Solution
+//    String comment();   // my _ ругается на осутствие поля comment третий блок @Revision в классе SolutionV2
     String comment() default "";  // from git _ не ругается..
 
 }

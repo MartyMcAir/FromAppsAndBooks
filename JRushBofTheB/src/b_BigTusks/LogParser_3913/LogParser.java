@@ -1,10 +1,12 @@
-package com.javarush.task.task39.task3913;
+package b_BigTusks.LogParser_3913;
 
-import com.javarush.task.task39.task3913.forLogParser.EventRow;
-import com.javarush.task.task39.task3913.forLogParser.LogRecord;
-import com.javarush.task.task39.task3913.query.*;
 
-import java.io.*;
+import b_BigTusks.LogParser_3913.forLogParser.EventRow;
+import b_BigTusks.LogParser_3913.forLogParser.LogRecord;
+import b_BigTusks.LogParser_3913.query.*;
+
+import java.io.File;
+import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;

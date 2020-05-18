@@ -1,4 +1,4 @@
-package b_BigTusks.Tetris_2213;
+package b_BigTusks.ConsoleTetris_2213;
 
 import javax.swing.*;
 import java.awt.*;

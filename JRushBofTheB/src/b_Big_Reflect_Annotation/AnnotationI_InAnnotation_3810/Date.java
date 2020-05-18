@@ -1,4 +1,4 @@
-package com.javarush.task.task38.task3810;
+package b_Big_Reflect_Annotation.AnnotationI_InAnnotation_3810;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

@@ -12,8 +12,8 @@ import java.util.TimerTask;
 //"Thread-4321" должно быть заменено на "***********".
 //
 //Требования:
-//•	Определение класса Solution и его поля менять нельзя.
-//•	Конструктор Solution должен создавать свой UncaughtExceptionHandler, и сохранять его в поле handler.
+//•	Определение класса Solution_3105 и его поля менять нельзя.
+//•	Конструктор Solution_3105 должен создавать свой UncaughtExceptionHandler, и сохранять его в поле handler.
 //•	Созданный UncaughtExceptionHandler должен выводить описание возникшей ошибки в консоль.
 //•	В описании ошибки имя трэда должно быть замаскировано символами "*".
 public class ThreadTimerTask_2511 extends TimerTask {

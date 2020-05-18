@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3212.service;
+package z_OOP_BiG_Pack.ServiceLocator_3212.service;
 
 public interface Service {
     String getName();

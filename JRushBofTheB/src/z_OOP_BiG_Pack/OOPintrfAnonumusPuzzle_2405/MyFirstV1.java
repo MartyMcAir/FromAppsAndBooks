@@ -28,7 +28,7 @@ public class MyFirstV1 implements Action {
                 FirstClass firstClass = new FirstClass() { // требует обязательной реализации т.к. abstract класс и его метод
                     @Override   //  так, что делаем это через анонимный класс
                     public Action getDependantAction() {
-                        return null; //  Solution.this::someAction;
+                        return null; //  Solution_3105.this::someAction;
                     }
                 };
 
@@ -42,7 +42,7 @@ public class MyFirstV1 implements Action {
                 secondClass.someAction();
             } else {
                 secondClass.someAction();
-//                Solution.countActionObjects--; // необходимо в случае если FirstClass создан в скоупе всего метода
+//                Solution_3105.countActionObjects--; // необходимо в случае если FirstClass создан в скоупе всего метода
                 System.out.println(); // 2ий вариант вывода Specific action..
                 System.out.println(SecondClass.SPECIFIC_ACTION_FOR_ANONYMOUS_SECOND_CLASS_PARAM.
                         substring(1) + param);

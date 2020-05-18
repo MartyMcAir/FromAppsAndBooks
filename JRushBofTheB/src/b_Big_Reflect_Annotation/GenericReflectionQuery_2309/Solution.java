@@ -1,6 +1,6 @@
-package b_Big_Reflection.GenericReflectionQuery_2309;
+package b_Big_Reflect_Annotation.GenericReflectionQuery_2309;
 
-import b_Big_Reflection.GenericReflectionQuery_2309.vo.*;
+import b_Big_Reflect_Annotation.GenericReflectionQuery_2309.vo.*;
 
 import java.util.List;
 

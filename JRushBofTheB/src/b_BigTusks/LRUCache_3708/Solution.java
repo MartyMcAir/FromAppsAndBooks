@@ -1,10 +1,10 @@
-package com.javarush.task.task37.task3708;
+package b_BigTusks.LRUCache_3708;
 
-import com.javarush.task.task37.task3708.retrievers.CachingProxyRetriever;
-import com.javarush.task.task37.task3708.retrievers.OriginalRetriever;
-import com.javarush.task.task37.task3708.retrievers.Retriever;
-import com.javarush.task.task37.task3708.storage.RemoteStorage;
-import com.javarush.task.task37.task3708.storage.Storage;
+import b_BigTusks.LRUCache_3708.retrievers.CachingProxyRetriever;
+import b_BigTusks.LRUCache_3708.retrievers.OriginalRetriever;
+import b_BigTusks.LRUCache_3708.retrievers.Retriever;
+import b_BigTusks.LRUCache_3708.storage.RemoteStorage;
+import b_BigTusks.LRUCache_3708.storage.Storage;
 
 /* 
 Кеширующий Proxy

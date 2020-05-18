@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3507;
+package b_Big_Reflect_Annotation.ClassLoaderTree_3507;
 
 import java.io.IOException;
 import java.lang.reflect.Constructor;
@@ -25,7 +25,7 @@ public class SolutionMy {
             InvocationTargetException, InstantiationException, IllegalAccessException {
         String pathStr = SolutionMy.class.getProtectionDomain().getCodeSource().getLocation().getPath();
         String packagePathStr = SolutionMy.class.getPackage().getName().replaceAll("[.]", "/") + "/data";
-//        String packagePathStrMy = Solution.class.getPackage().getName().replace(".", "/");
+//        String packagePathStrMy = SolutionV2.class.getPackage().getName().replace(".", "/");
 
         Set<? extends Animal> allAnimals = getAllAnimals(pathStr + packagePathStr);
         System.out.println(allAnimals);

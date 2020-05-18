@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3713.space.crew;
+package z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space.crew;
 
 public class FirstMate extends AbstractCrewMember {
     public FirstMate(AbstractCrewMember.CompetencyLevel competencyLevel) {

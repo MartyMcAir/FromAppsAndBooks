@@ -1,4 +1,4 @@
-package b_Big_Reflection.GenericReflectionQuery_2309.vo;
+package b_Big_Reflect_Annotation.GenericReflectionQuery_2309.vo;
 
 public class Subject extends NamedItem {
 }

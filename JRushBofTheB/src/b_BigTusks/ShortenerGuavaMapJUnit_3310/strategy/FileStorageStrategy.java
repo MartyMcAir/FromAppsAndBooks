@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310.strategy;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy;
 
 public class FileStorageStrategy implements StorageStrategy {
 //    private Path path; // непонял вчем прикол на git hub другие поля и прочее а в условия описано path поле...

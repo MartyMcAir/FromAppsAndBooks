@@ -1,12 +1,11 @@
-package com.javarush.task.task28.task2810;
+package b_BigTusks.SiteParser_JSOUP_2810;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.javarush.task.task28.task2810.model.HHStrategy;
-import com.javarush.task.task28.task2810.model.MoikrugStrategy;
-import com.javarush.task.task28.task2810.model.Provider;
-import com.javarush.task.task28.task2810.view.HtmlView;
-import com.javarush.task.task28.task2810.view.View;
-import com.javarush.task.task28.task2810.model.Model;
+import b_BigTusks.SiteParser_JSOUP_2810.model.HHStrategy;
+import b_BigTusks.SiteParser_JSOUP_2810.model.Model;
+import b_BigTusks.SiteParser_JSOUP_2810.model.MoikrugStrategy;
+import b_BigTusks.SiteParser_JSOUP_2810.model.Provider;
+import b_BigTusks.SiteParser_JSOUP_2810.view.HtmlView;
+import b_BigTusks.SiteParser_JSOUP_2810.view.View;
 
 public class Aggregator {
     public static void main(String[] args) {

@@ -1,13 +1,10 @@
-package com.javarush.task.task38.task3812;
+package b_Big_Reflect_Annotation.Annotation_ReflectionValues_3812;
 
 /* 
 Обработка аннотаций
 */
 
-import java.lang.annotation.Annotation;
-import java.lang.reflect.AnnotatedType;
-import java.lang.reflect.Method;
-
+// https://javarush.ru/tasks/com.javarush.task.task38.task3812#discuss
 public class Solution {
     public static void main(String[] args) throws NoSuchMethodException {
         printFullyQualifiedNames(Solution.class);

@@ -113,8 +113,8 @@ public class NotMy5 {
                 }
             }
             // Для проверки содержания полученных цепочек.
-//            for (String check: sorted) {
-//                System.out.print(check + " ");
+//            for (String checkNext: sorted) {
+//                System.out.print(checkNext + " ");
 //            }
 //            System.out.println("\n" + sorted.size() + " word(s)\n");
         }

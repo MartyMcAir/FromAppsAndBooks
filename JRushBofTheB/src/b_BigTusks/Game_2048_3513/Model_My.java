@@ -1,4 +1,4 @@
-package b_BigTusks.Game_2048;
+package b_BigTusks.Game_2048_3513;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -127,7 +127,7 @@ public class Model_My {
     // с вероятностью 0.9 и 0.1 соответственно.
     private void addTile() {
 //        int rnd = gameTiles.length * new Random().nextInt(1);
-//        if (!getEmptyTiles().isEmpty()) {
+//        if (!getEmptyTiles().isEmptyFirst()) {
 //            for (int i = 0; i < gameTiles.length; i++) {
 //                for (int j = 0; j < gameTiles[0].length; j++) {
 //                    gameTiles[i][j] = new Tile(Math.random() < 0.9 ? 2 : 4);

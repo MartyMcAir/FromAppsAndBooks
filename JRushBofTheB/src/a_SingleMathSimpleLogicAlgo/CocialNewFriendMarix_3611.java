@@ -1,16 +1,18 @@
-package com.javarush.task.task36.task3611;
+package a_SingleMathSimpleLogicAlgo;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 /* 
 Сколько у человека потенциальных друзей?
 */
 // https://javarush.ru/tasks/com.javarush.task.task36.task3611#discussion
-public class Solution {
+public class CocialNewFriendMarix_3611 {
     private boolean[][] humanRelationships;
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        CocialNewFriendMarix_3611 solution = new CocialNewFriendMarix_3611();
         solution.humanRelationships = generateRelationships();
 
         Set<Integer> allFriendsAndPotentialFriends = solution.getAllFriendsAndPotentialFriends(4, 2);

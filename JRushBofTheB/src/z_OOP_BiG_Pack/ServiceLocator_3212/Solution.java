@@ -1,9 +1,8 @@
-package com.javarush.task.task32.task3212;
+package z_OOP_BiG_Pack.ServiceLocator_3212;
 
-import com.javarush.task.task32.task3212.service.Service;
-
-import java.util.ArrayList;
-import java.util.List;
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
+//import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
+//import com.javarush.task.task32.task3212.service.Service;
 
 /* 
 Service Locator

@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310.strategy;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

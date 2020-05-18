@@ -1,4 +1,4 @@
-package com.javarush.task.task39.task3913;
+package b_BigTusks.LogParser_3913;
 
 public enum Event {
     LOGIN,

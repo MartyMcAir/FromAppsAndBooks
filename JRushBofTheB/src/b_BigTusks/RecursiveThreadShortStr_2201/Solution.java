@@ -6,7 +6,7 @@ package b_BigTusks.RecursiveThreadShortStr_2201;
 // https://javarush.ru/tasks/com.javarush.task.task22.task2201#discussion
 public class Solution {
     public static void main(String[] args) {
-        new Solution();   // STEP1 запускаем Solution
+        new Solution();   // STEP1 запускаем Solution_3105
     }
 
     public static final String FIRST_THREAD_NAME = "1#";
@@ -21,7 +21,7 @@ public class Solution {
     }
 
     protected void initThreads() {
-        // в Task передается текущий Solution, и строка, потом имя потока
+        // в Task передается текущий Solution_3105, и строка, потом имя потока
 //        this.thread1 = new Thread(new Task(this, "\tZ"), FIRST_THREAD_NAME);
 //        this.thread2 = new Thread(new Task(this, "J\tK"), SECOND_THREAD_NAME);
 //        this.thread2 = new Thread(new Task(this, "J\tK"), "ff"); // for oth Exception

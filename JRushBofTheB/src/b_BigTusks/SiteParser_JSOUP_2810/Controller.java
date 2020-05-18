@@ -1,6 +1,6 @@
-package com.javarush.task.task28.task2810;
+package b_BigTusks.SiteParser_JSOUP_2810;
 
-import com.javarush.task.task28.task2810.model.Model;
+import b_BigTusks.SiteParser_JSOUP_2810.model.Model;
 
 public class Controller {
     private Model model;

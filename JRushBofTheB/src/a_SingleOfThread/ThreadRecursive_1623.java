@@ -16,7 +16,7 @@ package a_SingleOfThread;
 //        Пример:
 //        8 created
 //
-//        4. Пока количество созданных нитей меньше Solution.count метод run должен:
+//        4. Пока количество созданных нитей меньше Solution_3105.count метод run должен:
 //        4.1. Создать новую нить типа GenerateThread.
 //        4.2. Вывести в консоль созданную в пункте 4.1 нить.
 //        5. В итоге должно быть выведено в консоль 15 строк.
@@ -28,8 +28,8 @@ package a_SingleOfThread;
 //        передавать его в виде строки в конструктор суперкласса.
 //        •	Конструктор класса GenerateThread должен запускать нить.
 //        •	Метод toString класса GenerateThread должен возвращать имя нити и слово " created". Пример: "8 created".
-//        •	Если количество созданных нитей меньше Solution.count, метод run должен создать новую нить типа GenerateThread.
-//        •	Если количество созданных нитей меньше Solution.count, метод run должен вывести созданную нить в консоль.
+//        •	Если количество созданных нитей меньше Solution_3105.count, метод run должен создать новую нить типа GenerateThread.
+//        •	Если количество созданных нитей меньше Solution_3105.count, метод run должен вывести созданную нить в консоль.
 //        •	Вывод программы должен соответствовать заданию, показывать, что все 15 нитей были созданы.
 public class ThreadRecursive_1623 {
     static int count = 15;
@@ -68,7 +68,7 @@ public class ThreadRecursive_1623 {
 //                System.out.println(new GenerateThread());
 //            }
 
-            // Если количество созданных нитей меньше Solution.count, метод run должен
+            // Если количество созданных нитей меньше Solution_3105.count, метод run должен
             // создать новую нить типа GenerateThread.
             if(createdThreadCount<count){
                 System.out.println(new GenerateThread());

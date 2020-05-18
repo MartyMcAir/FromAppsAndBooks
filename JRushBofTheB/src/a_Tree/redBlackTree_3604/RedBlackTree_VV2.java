@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3604;
+package a_Tree.redBlackTree_3604;
 
 // https://github.com/TimeSooShort/AlgorithmLearning/tree/a04378551bd78a895ae176337855565ada7b2016/src/Algorithms4th/search
 // - там интересн алгоритмы..

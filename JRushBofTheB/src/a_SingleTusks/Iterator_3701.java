@@ -1,13 +1,17 @@
-package com.javarush.task.task37.task3701;
+package a_SingleTusks;
 
 import java.util.*;
 
 /* 
 Круговой итератор
 */
-public class Solution<T> extends ArrayList<T> {
+// https://javarush.ru/quests/lectures/questcollections.level07.lecture04
+// Перегрузи правильным образом метод iterator в классе SolutionV2.
+//Напишите свой класс RoundIterator внутри SolutionV2, который будет итератором для списка SolutionV2.
+//Итератор должен ходить по кругу по всем элементам.
+public class Iterator_3701<T> extends ArrayList<T> {
     public static void main(String[] args) {
-        Solution<Integer> list = original();
+        Iterator_3701<Integer> list = original();
         Collections.addAll(list, 4, 5, 6, 7, 8, 9);
         System.out.println();
         list.forEach(v -> System.out.print(v + ", "));
@@ -23,8 +27,8 @@ public class Solution<T> extends ArrayList<T> {
         list.forEach(v -> System.out.print(v + ", "));
     }
 
-    private static Solution<Integer> original() {
-        Solution<Integer> list = new Solution<>();
+    private static Iterator_3701<Integer> original() {
+        Iterator_3701<Integer> list = new Iterator_3701<>();
         list.add(1);
         list.add(2);
         list.add(3);
@@ -47,14 +51,14 @@ public class Solution<T> extends ArrayList<T> {
     }
 
     public class RoundIterator implements Iterator<T> {
-        private Iterator<T> superIterator = Solution.super.iterator();
+        private Iterator<T> superIterator = Iterator_3701.super.iterator();
 
         @Override
         public boolean hasNext() {
             if (size() == 0)
                 return false;
             if (!superIterator.hasNext())
-                superIterator = Solution.super.iterator();
+                superIterator = Iterator_3701.super.iterator();
             return true;
         }
 
@@ -104,7 +108,7 @@ public class Solution<T> extends ArrayList<T> {
             checkForComodification();
 
             try {
-                Solution.this.remove(lastRet);
+                Iterator_3701.this.remove(lastRet);
                 cursor = lastRet;
                 lastRet = -1;
                 expectedModCount = modCount;
@@ -152,7 +156,7 @@ public class Solution<T> extends ArrayList<T> {
             checkForComodification();
 
             try {
-                Solution.this.remove(lastRet);
+                Iterator_3701.this.remove(lastRet);
                 cursor = lastRet;
                 lastRet = -1;
                 expectedModCount = modCount;

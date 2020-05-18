@@ -1,7 +1,7 @@
-package b_BigTusks.UrlShortener_3310.tests;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.tests;
 
-import b_BigTusks.UrlShortener_3310.Shortener;
-import b_BigTusks.UrlShortener_3310.strategy.*;
+import b_BigTusks.ShortenerGuavaMapJUnit_3310.Shortener;
+import b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy.*;
 import org.junit.Assert;
 import org.junit.Test;
 

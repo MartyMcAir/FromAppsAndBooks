@@ -1,11 +1,10 @@
-package com.javarush.task.task28.task2810.view;
+package b_BigTusks.SiteParser_JSOUP_2810.view;
 
-import com.javarush.task.task28.task2810.Controller;
-import com.javarush.task.task28.task2810.vo.Vacancy;
+import b_BigTusks.SiteParser_JSOUP_2810.Controller;
+import b_BigTusks.SiteParser_JSOUP_2810.vo.Vacancy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-
 
 import java.io.File;
 import java.io.FileWriter;

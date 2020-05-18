@@ -1,10 +1,9 @@
-package com.javarush.task.task39.task3913;
+package b_BigTusks.LogParser_3913;
 
 import java.nio.file.Paths;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
 import java.util.Locale;
 import java.util.Set;
 

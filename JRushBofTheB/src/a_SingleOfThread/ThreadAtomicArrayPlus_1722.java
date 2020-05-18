@@ -9,12 +9,12 @@ package a_SingleOfThread;
 //        2. Исправь synchronized блок так, чтобы массив values заполнился значением 1
 //
 //        Требования:
-//        •	Класс Solution должен содержать класс Counter.
+//        •	Класс Solution_3105 должен содержать класс Counter.
 //        •	Класс Counter должен быть нитью.
 //        •	Метод run() класса Counter должен содержать synchronized блок.
 //        •	Synchronized блок метода run() не должен блокировать мьютекс this.
-//        •	Метод main(String[] args) класса Solution не должен использовать Thread.sleep().
-//        •	Для каждой нити, в методе main(String[] args) класса Solution используй метод, который ожидает завершение нити.
+//        •	Метод main(String[] args) класса Solution_3105 не должен использовать Thread.sleep().
+//        •	Для каждой нити, в методе main(String[] args) класса Solution_3105 используй метод, который ожидает завершение нити.
 public class ThreadAtomicArrayPlus_1722 {
     public static void main(String[] args) throws InterruptedException {
         Counter counter1 = new Counter();
@@ -75,7 +75,7 @@ public class ThreadAtomicArrayPlus_1722 {
             do { // цикл сначала выполняется, а потом проверяет условия
 //                synchronized (this) { // мьютекс блокировка на уровне текущего объекта _ 0 1 2
                 synchronized (values) { // work _ 0 1 1 1
-//                synchronized (Solution.class) { // work _ 0 1 1 1
+//                synchronized (Solution_3105.class) { // work _ 0 1 1 1
                     incrementCount();   // атомарная операция 0, 1, 2, ..
 
                     // [getCount()]++ - т.е. инкрементирует полученный элемент

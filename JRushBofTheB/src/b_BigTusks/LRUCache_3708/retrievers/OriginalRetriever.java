@@ -1,6 +1,6 @@
 package b_BigTusks.LRUCache_3708.retrievers;
 
-import com.javarush.task.task37.task3708.storage.Storage;
+import b_BigTusks.LRUCache_3708.storage.Storage;
 
 public class OriginalRetriever implements Retriever {
     Storage storage;

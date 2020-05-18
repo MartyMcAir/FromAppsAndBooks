@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310.strategy;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy;
 
 // For Example
 // http://hg.openjdk.java.net/jdk7/jdk7/jdk/file/9b8c96f96a0f/src/share/classes/java/util/HashMap.java

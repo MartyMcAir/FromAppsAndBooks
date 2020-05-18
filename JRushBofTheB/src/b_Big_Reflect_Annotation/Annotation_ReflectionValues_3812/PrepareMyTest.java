@@ -1,4 +1,4 @@
-package com.javarush.task.task38.task3812;
+package b_Big_Reflect_Annotation.Annotation_ReflectionValues_3812;
 
 // https://mvnrepository.com/artifact/org.powermock/powermock-core/2.0.6
 import org.powermock.core.classloader.annotations.PrepareForTest;

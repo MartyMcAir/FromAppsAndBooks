@@ -7,7 +7,7 @@ import java.util.List;
 Кроссворд
 */
 public class Solution {
-    // Класс Solution не должен содержать статические поля.
+    // Класс Solution_3105 не должен содержать статические поля.
 //    private static List<Word> res = new ArrayList<Word>();
 
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ package a_SingleOfThread;
 Вежливость - это искусственно созданное хорошее настроение
 */
 // https://javarush.ru/tasks/com.javarush.task.task26.task2607#discussion
-// В классе Solution создай public static класс IntegerHolder.
+// В классе Solution_3105 создай public static класс IntegerHolder.
 //IntegerHolder должен быть для типа int (имя переменной должно быть value), быть thread safe и изменяемым.
 //В этом классе должны быть два public метода get и set.
 public class ThreadSafe_2607 {

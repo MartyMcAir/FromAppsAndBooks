@@ -1,4 +1,4 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608.model;
+package z_OOP_BiG_Pack.MVC_3608.model;
 
 public interface Model {
     ModelData getModelData();

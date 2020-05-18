@@ -1,9 +1,9 @@
-package b_BigTusks.UrlShortener_3310;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310;
 
 
-import b_BigTusks.UrlShortener_3310.strategy.HashMapStorageStrategy;
-import b_BigTusks.UrlShortener_3310.strategy.OurHashMapStorageStrategy;
-import b_BigTusks.UrlShortener_3310.strategy.StorageStrategy;
+import b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy.HashMapStorageStrategy;
+import b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy.OurHashMapStorageStrategy;
+import b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy.StorageStrategy;
 
 import java.io.IOException;
 import java.util.Date;

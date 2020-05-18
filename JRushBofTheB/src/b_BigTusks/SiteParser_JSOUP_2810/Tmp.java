@@ -1,4 +1,4 @@
-package com.javarush.task.task28.task2810;
+package b_BigTusks.SiteParser_JSOUP_2810;
 
 public class Tmp {
     // Aggregator (1)   -----------------------------------------------------------------------------------------
@@ -138,7 +138,7 @@ public class Tmp {
     //Работает? Отлично, что работает!
 
     // Aggregator (13) _ ----------------------------------------------------------------------- _
-    // https://javarush.ru/tasks/com.javarush.task.task28.task2810.big13#discussion
+    // https://javarush.ru/tasks/b_BigTusks.SiteParser_JSOUP_2810.big13#discussion
     //Смотри, в пакете view появились два новых файла: _ vacancies.html - будешь в него записывать данные,
     //backup.html - дубликат vacancies.html для восстановления, вдруг данные в vacancies.html сотрутся.
     //Стань слева в дереве проекта на vacancies.html, нажми правой клавишей мыши, далее "Open in Browser".
@@ -174,7 +174,7 @@ public class Tmp {
     //Используй окно Expression Evaluation, думаю, оно тебе понадобится в следующем пункте.
 
     // Aggregator (15) ___ копи паста
-    // https://javarush.ru/tasks/com.javarush.task.task28.task2810.big15#discussion
+    // https://javarush.ru/tasks/b_BigTusks.SiteParser_JSOUP_2810.big15#discussion
     //В классе HtmlView остался один пустой метод getUpdatedFileContent. В этом задании я опишу, что он должен делать.
     //1. В HtmlView создай protected метод Document getDocument() throws IOException, в котором
     //распарси файл vacancies.html используя Jsoup. Кодировка файла "UTF-8", используй поле filePath.

@@ -1,7 +1,7 @@
 package b_BigTusks.LRUCache_3708.retrievers;
 
-import com.javarush.task.task37.task3708.cache.LRUCache;
-import com.javarush.task.task37.task3708.storage.Storage;
+import b_BigTusks.LRUCache_3708.cache.LRUCache;
+import b_BigTusks.LRUCache_3708.storage.Storage;
 
 //import com.mysql.cj.util.LRUCache;
 

@@ -1,6 +1,6 @@
-package com.javarush.task.task28.task2810.model;
+package b_BigTusks.SiteParser_JSOUP_2810.model;
 
-import com.javarush.task.task28.task2810.view.View;
+import b_BigTusks.SiteParser_JSOUP_2810.view.View;
 
 import java.util.Arrays;
 import java.util.Collection;

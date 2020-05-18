@@ -24,7 +24,7 @@ public class ReverseBytesOfFile_1809 {
         BufferedInputStream bfIn = new BufferedInputStream(new FileInputStream(filePath1));
         BufferedOutputStream bfOut = new BufferedOutputStream(new FileOutputStream(filePath2));
 
-        // Ошибка в файле com/javarush/task/task18/task1809/Solution.java в строке : 19
+        // Ошибка в файле com/javarush/task/task18/task1809/Solution_3105.java в строке : 19
         // Не найден метод "readAllBytes()" в переменной "bfIn"
 //        byte[] arrByte = bfIn.readAllBytes();   // WTF!?
 //

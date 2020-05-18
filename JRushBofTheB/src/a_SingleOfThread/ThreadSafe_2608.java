@@ -8,7 +8,7 @@ import java.util.List;
 Мудрый человек думает раз, прежде чем два раза сказать
 */
 // https://javarush.ru/tasks/com.javarush.task.task26.task2608#discussion
-// Все методы, кроме метода main, класса Solution должны быть thread safe.
+// Все методы, кроме метода main, класса Solution_3105 должны быть thread safe.
 //Сделайте так, чтобы оба метода могли выполняться одновременно двумя различными тредами.
 //synchronized(this) для этого не подходит, используй другой объект для лока.
 public class ThreadSafe_2608 {

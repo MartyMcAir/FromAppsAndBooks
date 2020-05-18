@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 // https://javarush.ru/tasks/com.javarush.task.task16.task1629
-//1. В классе Solution создать public static класс нити Read3Strings унаследовавшись от Thread.
+//1. В классе Solution_3105 создать public static класс нити Read3Strings унаследовавшись от Thread.
 //        2. В методе run реализовать чтение с консоли трех строк.
 //        3. Три подряд введенных строки должны считываться в одной нити и объединяться в одну строку через пробел.
 //        4. В методе main вывести результат для каждой нити.
@@ -25,7 +25,7 @@ import java.io.InputStreamReader;
 //        d e f
 //
 //        Требования:
-//        •	Объяви в классе Solution public static класс Read3Strings.
+//        •	Объяви в классе Solution_3105 public static класс Read3Strings.
 //        •	Класс Read3Strings должен быть унаследован от Thread.
 //        •	Метод run класса Read3Strings должен считывать три строки.
 //        •	Класс Read3Strings должен содержать публичный метод printResult.

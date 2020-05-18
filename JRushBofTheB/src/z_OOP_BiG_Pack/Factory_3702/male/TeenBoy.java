@@ -1,6 +1,6 @@
-package com.javarush.task.task37.task3702.male;
+package z_OOP_BiG_Pack.Factory_3702.male;
 
-import com.javarush.task.task37.task3702.Human;
+import z_OOP_BiG_Pack.Factory_3702.Human;
 
 public class TeenBoy implements Human {
     public static final int MAX_AGE = 19;

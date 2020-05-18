@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3713.space.crew;
+package z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space.crew;
 
 // P.S. Постарайся реализовать метод handleRequest таким образом,
 // чтобы при добавлении новых должностей нам не требовалось вносить в него изменения. Другие методы не трогай.

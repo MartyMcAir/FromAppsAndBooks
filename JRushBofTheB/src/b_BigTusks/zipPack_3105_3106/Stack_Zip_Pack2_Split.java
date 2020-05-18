@@ -12,7 +12,7 @@ import java.util.zip.ZipFile;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipOutputStream;
 
-public class Zip_Pack2_Split {
+public class Stack_Zip_Pack2_Split {
     private final static long MAX_FILE_SIZE = 1000 * 1000 * 1024; //  around 1GB
     private final static String zipCopyDest = "C:\\zip2split\\copy";
 

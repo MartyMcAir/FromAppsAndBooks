@@ -1,8 +1,8 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608.model;
+package z_OOP_BiG_Pack.MVC_3608.model;
 
-import z_OOP_BiG_Pack.OOP_MVC_3608.bean.User;
-import z_OOP_BiG_Pack.OOP_MVC_3608.model.service.UserService;
-import z_OOP_BiG_Pack.OOP_MVC_3608.model.service.UserServiceImpl;
+import z_OOP_BiG_Pack.MVC_3608.bean.User;
+import z_OOP_BiG_Pack.MVC_3608.model.service.UserService;
+import z_OOP_BiG_Pack.MVC_3608.model.service.UserServiceImpl;
 
 import java.util.List;
 

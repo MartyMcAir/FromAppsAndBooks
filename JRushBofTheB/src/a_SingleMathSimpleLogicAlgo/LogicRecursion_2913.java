@@ -1,4 +1,4 @@
-package com.javarush.task.task29.task2913;
+package a_SingleMathSimpleLogicAlgo;
 
 import java.util.Random;
 
@@ -16,7 +16,7 @@ import java.util.Random;
 
 // https://javarush.ru/tasks/com.javarush.task.task29.task2913#discussion
 // решил сам _ просто интересная задачка
-public class Solution {
+public class LogicRecursion_2913 {
     private static int numberA;
     private static int numberB;
 

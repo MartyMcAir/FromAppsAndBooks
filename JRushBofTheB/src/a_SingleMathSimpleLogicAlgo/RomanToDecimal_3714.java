@@ -1,6 +1,8 @@
-package com.javarush.task.task37.task3714;
+package a_SingleMathSimpleLogicAlgo;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Hashtable;
@@ -15,7 +17,7 @@ import java.util.regex.Pattern;
 //Интересно тогда было жить, сплошные развлечения и вино! Или рабство, если не повезло со стартовой локацией...
 //В общем, мне нужен метод romanToInteger, который будет конвертировать число в римской системе счисления
 // {I, V, X, L, C, D, M} в десятичную. Иначе никак не разобрать что и когда у них происходило.
-public class Solution {
+public class RomanToDecimal_3714 {
     public static void main(String[] args) throws IOException {
 //        origin();
 //        withStringWriter();

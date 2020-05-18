@@ -1,6 +1,5 @@
-package com.javarush.task.task36.task3601;
+package z_OOP_BiG_Pack.MVC_Simple_3601;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Model {

@@ -16,9 +16,9 @@ import java.util.List;
 //Требования:
 //•	Логика чтения/записи реализованная в методах save/load должна работать корректно в случае, если список assets пустой.
 //•	Логика чтения/записи реализованная в методах save/load должна работать корректно в случае, если поле name и список assets не пустые.
-//•	Класс Solution.Human не должен поддерживать интерфейс Serializable.
-//•	Класс Solution.Human должен быть публичным.
-//•	Класс Solution.Human не должен поддерживать интерфейс Externalizable.
+//•	Класс Solution_3105.Human не должен поддерживать интерфейс Serializable.
+//•	Класс Solution_3105.Human должен быть публичным.
+//•	Класс Solution_3105.Human не должен поддерживать интерфейс Externalizable.
 public class FileSaveLoadNoSerializable_2001 {
     public static void main(String[] args) {
         //исправьте outputStream/inputStream в соответствии с путем к вашему реальному файлу
@@ -40,7 +40,7 @@ public class FileSaveLoadNoSerializable_2001 {
             Human somePerson = new Human();
             somePerson.load(inputStream);
             inputStream.close();
-            //check here that ivanov equals to somePerson - проверьте тут, что ivanov и somePerson равны
+            //checkNext here that ivanov equals to somePerson - проверьте тут, что ivanov и somePerson равны
             System.out.println(ivanov.equals(somePerson));
 
         } catch (IOException e) {

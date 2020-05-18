@@ -1,7 +1,8 @@
-package com.javarush.task.task39.task3913.forLogParser;
+package b_BigTusks.LogParser_3913.forLogParser;
 
-import com.javarush.task.task39.task3913.Event;
-import com.javarush.task.task39.task3913.Status;
+
+import b_BigTusks.LogParser_3913.Event;
+import b_BigTusks.LogParser_3913.Status;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

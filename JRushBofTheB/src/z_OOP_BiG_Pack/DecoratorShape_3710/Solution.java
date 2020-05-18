@@ -1,9 +1,9 @@
-package com.javarush.task.task37.task3710;
+package z_OOP_BiG_Pack.DecoratorShape_3710;
 
-import com.javarush.task.task37.task3710.decorators.RedShapeDecorator;
-import com.javarush.task.task37.task3710.shapes.Circle;
-import com.javarush.task.task37.task3710.shapes.Rectangle;
-import com.javarush.task.task37.task3710.shapes.Shape;
+import z_OOP_BiG_Pack.DecoratorShape_3710.decorators.RedShapeDecorator;
+import z_OOP_BiG_Pack.DecoratorShape_3710.shapes.Circle;
+import z_OOP_BiG_Pack.DecoratorShape_3710.shapes.Rectangle;
+import z_OOP_BiG_Pack.DecoratorShape_3710.shapes.Shape;
 
 /* 
 Decorator

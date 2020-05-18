@@ -12,8 +12,8 @@ package a_SingleOfThread;
 //        •	Метод takingOff должен работать примерно 100 мс.
 //        •	Метод waiting должен работать примерно 100 мс.
 //        •	В методе main должно создаваться 3 самолета.
-//        •	В классе Solution должен быть вложенный класс Plane (самолет).
-//        •	В классе Solution должен быть вложенный класс Runway (взлетная полоса).
+//        •	В классе Solution_3105 должен быть вложенный класс Plane (самолет).
+//        •	В классе Solution_3105 должен быть вложенный класс Runway (взлетная полоса).
 public class ThreadAirPlane_1615 {
     public static volatile Runway RUNWAY = new Runway();   //1 взлетная полоса
 

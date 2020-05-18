@@ -82,15 +82,14 @@ public class JRushFiles_3103_13 {
     }
 
     // https://javarush.ru/tasks/com.javarush.task.task31.task3112#discussion
-    public class Solution_3112 {
-        public static void main(String[] args) throws IOException {
-            Path passwords = downloadFile("https://javarush.ru/testdata/secretPasswords.txt", Paths.get("D:/MyDownloads"));
-
-            for (String line : Files.readAllLines(passwords)) {
-                System.out.println(line);
-            }
-
-        }
+    public static class Solution_3112 {
+//        public static void main(String[] args) throws IOException {
+//            Path passwords = downloadFile("https://javarush.ru/testdata/secretPasswords.txt", Paths.get("D:/MyDownloads"));
+//
+//            for (String line : Files.readAllLines(passwords)) {
+//                System.out.println(line);
+//            }
+//        }
 
         public static Path downloadFileFromGitNeo(String urlString, Path downloadDirectory) throws IOException {
             URL url = new URL(urlString);
@@ -135,25 +134,25 @@ public class JRushFiles_3103_13 {
         private static int directoryCounter = 0;
         private static long commonSize = 0;
 
-        public static void main(String[] args) throws IOException {
-//        Path path = Paths.get("c:\\z_n\\new_test_folder\\");
-
-//        Scanner sc = new Scanner(System.in);
-//        String line = sc.nextLine();
-            Path path = Paths.get(new Scanner(System.in).nextLine());
-
-            if (Files.isDirectory(path)) {
-                Files.walkFileTree(path, new MyWalkOnTheTree());
-                // ри подсчете количества папок, изначальную директорию считать не нужно.
-                System.out.println("Всего папок - " + (directoryCounter - 1));
-                System.out.println("Всего файлов - " + filesCounter);
-                System.out.println("Общий размер - " + commonSize); // b
-            } else {
-                System.out.println(path.toString() + " - не папка");
-            }
-//        System.out.println("Общий размер - " + (commonSize / 1024)); // kb
-//        System.out.println("Общий размер - " + ((commonSize / 1024) / 1024)); // mb
-        }
+//        public static void main(String[] args) throws IOException {
+////        Path path = Paths.get("c:\\z_n\\new_test_folder\\");
+//
+////        Scanner sc = new Scanner(System.in);
+////        String line = sc.nextLine();
+//            Path path = Paths.get(new Scanner(System.in).nextLine());
+//
+//            if (Files.isDirectory(path)) {
+//                Files.walkFileTree(path, new MyWalkOnTheTree());
+//                // ри подсчете количества папок, изначальную директорию считать не нужно.
+//                System.out.println("Всего папок - " + (directoryCounter - 1));
+//                System.out.println("Всего файлов - " + filesCounter);
+//                System.out.println("Общий размер - " + commonSize); // b
+//            } else {
+//                System.out.println(path.toString() + " - не папка");
+//            }
+////        System.out.println("Общий размер - " + (commonSize / 1024)); // kb
+////        System.out.println("Общий размер - " + ((commonSize / 1024) / 1024)); // mb
+//        }
 
         public static class MyWalkOnTheTree extends SimpleFileVisitor<Path> {
             @Override

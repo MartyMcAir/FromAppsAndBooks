@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 */
 // https://javarush.ru/tasks/com.javarush.task.task28.task2802#discussion
 // сам не допер _ задача простая, но не понятно что значит на уровне класса или уровне..
-// В классе Solution создай публичный статический класс AmigoThreadFactory, реализующий интерфейс ThreadFactory.
+// В классе Solution_3105 создай публичный статический класс AmigoThreadFactory, реализующий интерфейс ThreadFactory.
 //1. Реализация интерфейсного метода - создайте и верните трэд, который должен:
 //1.1. не быть демоном,
 //1.2. иметь нормальный приоритет,

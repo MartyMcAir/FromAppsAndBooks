@@ -1,7 +1,7 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608.dao;
+package z_OOP_BiG_Pack.MVC_3608.dao;
 
-import z_OOP_BiG_Pack.OOP_MVC_3608.bean.User;
-import z_OOP_BiG_Pack.OOP_MVC_3608.dao.mock.DataSource;
+import z_OOP_BiG_Pack.MVC_3608.bean.User;
+import z_OOP_BiG_Pack.MVC_3608.dao.mock.DataSource;
 
 import java.util.ArrayList;
 import java.util.List;

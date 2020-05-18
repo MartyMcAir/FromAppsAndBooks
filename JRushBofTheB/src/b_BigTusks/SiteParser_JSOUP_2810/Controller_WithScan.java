@@ -1,7 +1,7 @@
-package com.javarush.task.task28.task2810;
+package b_BigTusks.SiteParser_JSOUP_2810;
 
-import com.javarush.task.task28.task2810.model.Provider;
-import com.javarush.task.task28.task2810.vo.Vacancy;
+import b_BigTusks.SiteParser_JSOUP_2810.model.Provider;
+import b_BigTusks.SiteParser_JSOUP_2810.vo.Vacancy;
 
 import java.util.ArrayList;
 import java.util.Arrays;

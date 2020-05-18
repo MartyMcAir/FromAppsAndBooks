@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3507;
+package b_Big_Reflect_Annotation.ClassLoaderTree_3507;
 
 public interface Animal {
 }

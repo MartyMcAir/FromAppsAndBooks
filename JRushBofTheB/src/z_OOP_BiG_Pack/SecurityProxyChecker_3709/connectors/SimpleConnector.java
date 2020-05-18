@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3709.connectors;
+package z_OOP_BiG_Pack.SecurityProxyChecker_3709.connectors;
 
 public class SimpleConnector implements Connector {
     private String resourceString;

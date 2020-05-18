@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3604;
+package a_Tree.redBlackTree_3604;
 
 /* 
 Разбираемся в красно-черном дереве

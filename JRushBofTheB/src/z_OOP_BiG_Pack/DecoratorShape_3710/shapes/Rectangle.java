@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3710.shapes;
+package z_OOP_BiG_Pack.DecoratorShape_3710.shapes;
 
 public class Rectangle implements Shape {
     @Override

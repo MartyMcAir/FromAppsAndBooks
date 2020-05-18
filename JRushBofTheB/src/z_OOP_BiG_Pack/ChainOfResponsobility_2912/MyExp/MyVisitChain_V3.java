@@ -1,13 +1,13 @@
 package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Predicate;
 
-public class MyVisitChain2 extends SimpleFileVisitor<Path> {
+public class MyVisitChain_V3 extends SimpleFileVisitor<Path> {
     // Можно задавать либо один, либо сразу несколько критериев для поиска.
     private int maxSize, minSize;
     private int contentLength; // минимал и максимал размеры файла
@@ -17,35 +17,42 @@ public class MyVisitChain2 extends SimpleFileVisitor<Path> {
     private List<Path> foundFiles = new ArrayList<>();
     private ChainCommon chainCommon;
 
-    public void setChainCommon(ChainCommon chainCommon) {
-        this.chainCommon = chainCommon;
-    }
+    public static void main(String[] args) throws IOException {
+        MyVisitChain_V3 searchFileVisitor = new MyVisitChain_V3();
+        // Можно задавать либо один, либо сразу несколько критериев для поиска.
+//        searchFileVisitor.setPartOfName("new"); // встречающееся в названии файла
+        searchFileVisitor.setPartOfContent("Pokemon"); // встречающееся в содержимом файла
+//        searchFileVisitor.setMinSize((1024 * 1024) * 4); // минимал размер файла 10мб
+//        searchFileVisitor.setMinSize(0); // минимал размер файла 10мб
+        searchFileVisitor.setMaxSize((1024 * 1024) * 11); // максимал размер файла 100мб
 
-    public boolean runAllCheck() throws IOException {
-        return chainCommon.check();
+        Files.walkFileTree(Paths.get("c:\\z_n\\new_test_folder\\ttt\\"), searchFileVisitor);
+
+        List<Path> foundFiles = searchFileVisitor.getFoundFiles();
+        for (Path file : foundFiles) {
+            System.out.println(file);
+        }
+        System.out.println("size is: " + foundFiles.size()); // 267 всего
+//        System.out.println((1024 * 1024) * 10);
+
+
     }
 
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
         byte[] content = Files.readAllBytes(file); // размер файла: content.length
         contentLength = content.length;
-        filePath = file;
+        this.filePath = file;
 
-        // My способ через паттерн цепочка обязанностей
-//        ChainCommon chainCommon = new CheckMaxSize(this)
-//                .linkWith(new CheckMinSize(this));
-//
-//        // this - через этот объект, "чекеры" получают данные, что им надо проверить
-//        ChainCommon chainCommon2 = new CheckMinSize(this)
-//                .linkWith(new CheckMaxSize(this));
-////                .linkWith(new CheckPartOfName(this));
-////                .linkWith(new CheckPartOfContent(this)); // MalformedInputException
-//
-//        this.setChainCommon(chainCommon2);  // сеттим нужную цепь проверок
-//
-//        if (this.runAllCheck()) { // запускает все проверки (слева направо) и возвращает boolean
-//            foundFiles.add(file);
-//        }
+        CheckMaxSize maxSize = new CheckMaxSize(this);
+        maxSize.linkWith(new CheckMinSize(this))
+                .linkWith(new CheckPartOfName(this))
+                .linkWith(new CheckPartOfContent(this));
+        boolean result = maxSize.foolCheck();
+
+        if (result) {
+            foundFiles.add(file);
+        }
 
         return FileVisitResult.CONTINUE;
     }

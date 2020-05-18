@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310.strategy;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310.strategy;
 
 import com.google.common.collect.HashBiMap;
 

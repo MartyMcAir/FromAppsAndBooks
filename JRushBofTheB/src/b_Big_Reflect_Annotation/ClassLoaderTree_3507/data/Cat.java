@@ -1,6 +1,7 @@
-package com.javarush.task.task35.task3507.data;
+package b_Big_Reflect_Annotation.ClassLoaderTree_3507.data;
 
-import com.javarush.task.task35.task3507.Animal;
+
+import b_Big_Reflect_Annotation.ClassLoaderTree_3507.Animal;
 
 public class Cat implements Animal {
     public Cat() {

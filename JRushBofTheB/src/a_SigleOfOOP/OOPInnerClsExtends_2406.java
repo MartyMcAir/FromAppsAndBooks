@@ -2,12 +2,12 @@ package a_SigleOfOOP;
 
 import java.math.BigDecimal;
 // https://javarush.ru/tasks/com.javarush.task.task24.task2406#discussion
-// Внутри класса Solution создай 2 внутренних public класса Apt3Bedroom, BigHall.
+// Внутри класса Solution_3105 создай 2 внутренних public класса Apt3Bedroom, BigHall.
 //Унаследуй их от Apartments и Hall.
 //
 //Требования:
-//•	Класс Apt3Bedroom должен быть создан внутри класса Solution.
-//•	Класс BigHall должен быть создан внутри класса Solution.
+//•	Класс Apt3Bedroom должен быть создан внутри класса Solution_3105.
+//•	Класс BigHall должен быть создан внутри класса Solution_3105.
 //•	Класс Apt3Bedroom должен быть публичным.
 //•	Класс BigHall должен быть публичным.
 //•	Класс Apt3Bedroom должен быть потомком класса Building.Apartments.

@@ -1,9 +1,8 @@
-package com.javarush.task.task39.task3913.myTmp;
+package b_BigTusks.LogParser_3913.myTmp;
 
-import com.javarush.task.task39.task3913.Event;
-import com.javarush.task.task39.task3913.Status;
-import com.javarush.task.task39.task3913.query.IPQuery;
-import com.javarush.task.task39.task3913.query.UserQuery;
+import b_BigTusks.LogParser_3913.Event;
+import b_BigTusks.LogParser_3913.Status;
+import b_BigTusks.LogParser_3913.query.IPQuery;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,7 +1,7 @@
-package com.javarush.task.task37.task3702.female;
+package z_OOP_BiG_Pack.Factory_3702.female;
 
-import com.javarush.task.task37.task3702.AbstractFactory;
-import com.javarush.task.task37.task3702.Human;
+import z_OOP_BiG_Pack.Factory_3702.AbstractFactory;
+import z_OOP_BiG_Pack.Factory_3702.Human;
 
 public class FemaleFactory implements AbstractFactory {
     public Human getPerson(int age) {

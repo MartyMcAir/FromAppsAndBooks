@@ -5,7 +5,7 @@ package a_SingleOfException;
 */
 // https://javarush.ru/tasks/com.javarush.task.task25.task2512#discussion
 // Живем своим умом
-//В классе Solution реализуй интерфейс UncaughtExceptionHandler, который должен:
+//В классе Solution_3105 реализуй интерфейс UncaughtExceptionHandler, который должен:
 //1. прервать нить, которая бросила исключение.
 //2. вывести в консоль стек исключений, начиная с самого вложенного.
 //
@@ -80,7 +80,7 @@ public class ExceptionStackThread_2512 implements Thread.UncaughtExceptionHandle
 
     public static void main(String[] args) {
         // my test variant wrong
-//        Solution sol = new Solution();
+//        Solution_3105 sol = new Solution_3105();
 //        sol.division(10, 0);
 //
 //        Thread t = new Thread(new Runnable() {
@@ -111,7 +111,7 @@ public class ExceptionStackThread_2512 implements Thread.UncaughtExceptionHandle
     //
     //мы получим:
     //java.lang.Exception: ABC
-    //	at com.javarush.task.task25.task2512.Solution.main(Solution.java:13)
+    //	at com.javarush.task.task25.task2512.Solution_3105.main(Solution_3105.java:13)
     //Caused by: java.lang.RuntimeException: DEF
     //	... 1 more
     //Caused by: java.lang.IllegalAccessException: GHI

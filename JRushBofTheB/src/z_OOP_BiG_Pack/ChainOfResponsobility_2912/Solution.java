@@ -1,4 +1,4 @@
-package com.javarush.task.task29.task2912;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912;
 
 /* 
 Рефакторинг паттерна Chain of Responsibility

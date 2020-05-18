@@ -1,4 +1,4 @@
-package com.javarush.task.task39.task3913.query;
+package b_BigTusks.LogParser_3913.query;
 
 import java.util.Date;
 import java.util.Set;

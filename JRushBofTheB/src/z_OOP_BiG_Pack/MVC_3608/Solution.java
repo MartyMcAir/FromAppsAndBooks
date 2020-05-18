@@ -1,10 +1,10 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608;
+package z_OOP_BiG_Pack.MVC_3608;
 
-import z_OOP_BiG_Pack.OOP_MVC_3608.controller.Controller;
-import z_OOP_BiG_Pack.OOP_MVC_3608.model.MainModel;
-import z_OOP_BiG_Pack.OOP_MVC_3608.model.Model;
-import z_OOP_BiG_Pack.OOP_MVC_3608.view.EditUserView;
-import z_OOP_BiG_Pack.OOP_MVC_3608.view.UsersView;
+import z_OOP_BiG_Pack.MVC_3608.controller.Controller;
+import z_OOP_BiG_Pack.MVC_3608.model.MainModel;
+import z_OOP_BiG_Pack.MVC_3608.model.Model;
+import z_OOP_BiG_Pack.MVC_3608.view.EditUserView;
+import z_OOP_BiG_Pack.MVC_3608.view.UsersView;
 
 import java.util.Properties;
 

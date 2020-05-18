@@ -4,6 +4,12 @@ import java.util.function.Consumer;
 
 public class LambdaScopeTest {
 
+    public static void main(String[] args) {
+        LambdaScopeTest scopeTest = new LambdaScopeTest();
+        LambdaScopeTest.LambdaScopeInner inner = scopeTest.new LambdaScopeInner();
+        inner.testScope(999.00);
+    }
+
     double d = 0.123;
 
     class LambdaScopeInner{

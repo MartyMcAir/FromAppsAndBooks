@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3702;
+package z_OOP_BiG_Pack.Factory_3702;
 
 public class Tmp {
     // Фабрики (1)  паттерном Factory Method. Возьмем пример с людьми.
@@ -11,5 +11,5 @@ public class Tmp {
     //
     //4. Сгенерируй автоматические методы toString для каждого класса KidBoy, TeenBoy, Man. Получится "KidBoy{}" и т.п.
     //
-    //5. Создай класс Solution с методом main.
+    //5. Создай класс SolutionV2 с методом main.
 }

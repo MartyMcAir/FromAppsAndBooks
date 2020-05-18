@@ -1,6 +1,6 @@
-package com.javarush.task.task37.task3713.space;
+package z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space;
 
-import com.javarush.task.task37.task3713.space.crew.*;
+import z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space.crew.*;
 
 public class SpaceShip {
     public AbstractCrewMember getCrewChain() {

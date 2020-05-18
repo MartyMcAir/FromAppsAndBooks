@@ -21,7 +21,7 @@ import java.io.InputStreamReader;
 //        Требования:
 //        •	Программа должна выводить текст на экран.
 //        •	Программа должна считывать строку с клавиатуры.
-//        •	Класс Solution должен содержать один метод.
+//        •	Класс Solution_3105 должен содержать один метод.
 //        •	Программа должна заменять в тексте первые буквы всех слов на заглавные.
 public class FirstLatterUpperCase_0823 {
     public static void main(String[] args) throws IOException {

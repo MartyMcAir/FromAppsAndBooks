@@ -1,6 +1,6 @@
-package b_Big_Reflection.GenericReflectionQuery_2309;
+package b_Big_Reflect_Annotation.GenericReflectionQuery_2309;
 
-import b_Big_Reflection.GenericReflectionQuery_2309.vo.NamedItem;
+import b_Big_Reflect_Annotation.GenericReflectionQuery_2309.vo.NamedItem;
 
 import java.lang.reflect.ParameterizedType;
 import java.util.ArrayList;

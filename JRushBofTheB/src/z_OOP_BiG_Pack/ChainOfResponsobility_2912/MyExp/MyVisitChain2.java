@@ -7,7 +7,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TestServer2 extends SimpleFileVisitor<Path> {
+public class MyVisitChain2 extends SimpleFileVisitor<Path> {
     // Можно задавать либо один, либо сразу несколько критериев для поиска.
     private int maxSize, minSize;
     private int contentLength; // минимал и максимал размеры файла

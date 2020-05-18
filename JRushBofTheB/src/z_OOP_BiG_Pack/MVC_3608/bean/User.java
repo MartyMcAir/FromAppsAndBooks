@@ -1,4 +1,4 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608.bean;
+package z_OOP_BiG_Pack.MVC_3608.bean;
 
 public class User implements Cloneable {
     private String name;

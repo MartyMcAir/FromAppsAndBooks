@@ -11,20 +11,20 @@ import java.util.List;
 */
 // https://javarush.ru/tasks/com.javarush.task.task36.task3606#discussion
 // опять загвоздка с путями..
-public class Solution {
+public class SolutionV2 {
     private List<Class> hiddenClasses = new ArrayList<>();
     private String packageName;
 
-    public Solution(String packageName) {
+    public SolutionV2(String packageName) {
         this.packageName = packageName;
     }
 
     public static void main(String[] args) throws ClassNotFoundException {
-        Solution solution = new Solution(Solution.class.getProtectionDomain().getCodeSource().getLocation().getPath() + "com/javarush/task/task36/task3606/data/second");
-        solution.scanFileSystem();
-        System.out.println(solution.getHiddenClassObjectByKey("hiddenclassimplse"));
-        System.out.println(solution.getHiddenClassObjectByKey("hiddenclassimplf"));
-        System.out.println(solution.getHiddenClassObjectByKey("packa"));
+        SolutionV2 solutionV2 = new SolutionV2(SolutionV2.class.getProtectionDomain().getCodeSource().getLocation().getPath() + "com/javarush/task/task36/task3606/data/second");
+        solutionV2.scanFileSystem();
+        System.out.println(solutionV2.getHiddenClassObjectByKey("hiddenclassimplse"));
+        System.out.println(solutionV2.getHiddenClassObjectByKey("hiddenclassimplf"));
+        System.out.println(solutionV2.getHiddenClassObjectByKey("packa"));
     }
 
     public void scanFileSystem() throws ClassNotFoundException {

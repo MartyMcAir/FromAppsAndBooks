@@ -1,8 +1,6 @@
-package com.javarush.task.task37.task3710.decorators;
+package z_OOP_BiG_Pack.DecoratorShape_3710.decorators;
 
-import com.javarush.task.task37.task3710.shapes.Circle;
-import com.javarush.task.task37.task3710.shapes.Rectangle;
-import com.javarush.task.task37.task3710.shapes.Shape;
+import z_OOP_BiG_Pack.DecoratorShape_3710.shapes.Shape;
 
 public class RedShapeDecorator extends ShapeDecorator {
     public RedShapeDecorator(Shape decoratedShape) {

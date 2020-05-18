@@ -1,6 +1,7 @@
-package com.javarush.task.task32.task3212.service.impl;
+package z_OOP_BiG_Pack.ServiceLocator_3212.service.impl;
 
-import com.javarush.task.task32.task3212.service.Service;
+//import com.javarush.task.task32.task3212.service.Service;
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
 
 public class EJBServiceImpl implements Service {
 

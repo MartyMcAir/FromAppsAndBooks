@@ -1,4 +1,4 @@
-package a_SingleOfFileIO;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,7 +22,9 @@ import java.util.List;
 //Можно задавать либо один, либо сразу несколько критериев для поиска.
 
 // сам сделал _ интересная задача взомжно стоит попробовать ее реализовать через паттерн Цепочка Ответственности
+// Вместо цепочки Ответственности + можно применять кучу ветвлений или..
 // Потенциально.., ещё её можно решить, используя паттерн Цепочка обязанностей, или иcпользуя Package java.util.function - с лямбдами..
+
 public class SearchFileVisitor_3111 extends SimpleFileVisitor<Path> {
     public static void main(String[] args) throws IOException {
         SearchFileVisitor_3111 searchFileVisitor = new SearchFileVisitor_3111();
@@ -41,7 +43,6 @@ public class SearchFileVisitor_3111 extends SimpleFileVisitor<Path> {
     }
 
 
-
     // Можно задавать либо один, либо сразу несколько критериев для поиска.
     boolean isMinSize = false, isMaxSize = false, isPartOfContent = false, isPartOfName = false;
 
@@ -54,8 +55,17 @@ public class SearchFileVisitor_3111 extends SimpleFileVisitor<Path> {
     public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
         byte[] content = Files.readAllBytes(file); // размер файла: content.length
 
+        // мой способ
         validateAndAddFile(file, content.length);
-        return super.visitFile(file, attrs);
+
+        // способ ветвлений
+//        if (partOfName != null && !file.getFileName().toString().contains(partOfName)) return FileVisitResult.CONTINUE;
+//        if (partOfContent != null && Files.readAllLines(file).stream().noneMatch(s -> s.contains(partOfContent))) return FileVisitResult.CONTINUE;
+//        if (minSize != 0 && attrs.size() < minSize) return FileVisitResult.CONTINUE;
+//        if (maxSize != 0 && attrs.size() > maxSize) return FileVisitResult.CONTINUE;
+//        foundFiles.add(file);
+//        return super.visitFile(file, attrs);
+        return FileVisitResult.CONTINUE;
     }
 
     public void setMinSize(int minSize) {

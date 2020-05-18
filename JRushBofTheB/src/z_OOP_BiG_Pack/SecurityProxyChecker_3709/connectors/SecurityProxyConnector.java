@@ -1,12 +1,12 @@
-package com.javarush.task.task37.task3709.connectors;
+package z_OOP_BiG_Pack.SecurityProxyChecker_3709.connectors;
 
-import com.javarush.task.task37.task3709.security.SecurityChecker;
-import com.javarush.task.task37.task3709.security.SecurityCheckerImpl;
+import z_OOP_BiG_Pack.SecurityProxyChecker_3709.security.SecurityChecker;
+import z_OOP_BiG_Pack.SecurityProxyChecker_3709.security.SecurityCheckerImpl;
 
 // производить проверку безопасности перед подключением.
 // В случае, если проверка не пройдена, соединение не должно быть установлено.
 
-// Для клиента (в данном случае класс Solution) использование SecurityProxyConnector ничем не должно отличаться
+// Для клиента (в данном случае класс SolutionV2) использование SecurityProxyConnector ничем не должно отличаться
 // от использования класса SimpleConnector.
 public class SecurityProxyConnector implements Connector {
     private String resourceString;

@@ -1,4 +1,4 @@
-package com.javarush.task.task39.task3913.myTmp;
+package b_BigTusks.LogParser_3913.myTmp;
 
 public class Tmp {
     // Парсер логов (1)

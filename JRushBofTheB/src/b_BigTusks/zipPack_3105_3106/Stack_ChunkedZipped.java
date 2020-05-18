@@ -8,7 +8,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
 // https://stackoverflow.com/questions/243992/how-to-split-a-huge-zip-file-into-multiple-volumes
-public class ChunkedZippedOutputStream {
+public class Stack_ChunkedZipped {
     private ZipOutputStream zipOutputStream;
 
     private String path;
@@ -20,7 +20,7 @@ public class ChunkedZippedOutputStream {
     private final String PART_POSTFIX = ".part.";
     private final String FILE_EXTENSION = ".zip";
 
-    public ChunkedZippedOutputStream(String path, String name) throws FileNotFoundException {
+    public Stack_ChunkedZipped(String path, String name) throws FileNotFoundException {
         this.path = path;
         this.name = name;
         constructNewStream();

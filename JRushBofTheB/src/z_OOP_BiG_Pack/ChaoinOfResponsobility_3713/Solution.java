@@ -1,7 +1,7 @@
-package com.javarush.task.task37.task3713;
+package z_OOP_BiG_Pack.ChaoinOfResponsobility_3713;
 
-import com.javarush.task.task37.task3713.space.SpaceShip;
-import com.javarush.task.task37.task3713.space.crew.AbstractCrewMember;
+import z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space.SpaceShip;
+import z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.space.crew.AbstractCrewMember;
 
 /* 
 Chain of Responsibility

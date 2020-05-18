@@ -51,7 +51,7 @@ public class OrderWordsDigits_0930 {
 
 //        while (true) {
 //            String s = reader.readLine();
-//            if (s.isEmpty()) break;
+//            if (s.isEmptyFirst()) break;
 //            list.add(s);
 //        }
 

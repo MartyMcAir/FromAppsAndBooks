@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3505;
+package b_BigTusks.Generic_3505;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,6 +7,7 @@ import java.util.Map;
 /* 
 List to Map
 */
+// https://javarush.ru/tasks/com.javarush.task.task35.task3505#discussion
 public class Solution {
     public static void main(String[] args) {
         List<ConvertableUser> users = new ArrayList<>();

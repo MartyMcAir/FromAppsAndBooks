@@ -1,9 +1,10 @@
-package com.javarush.task.task32.task3212;
+package z_OOP_BiG_Pack.ServiceLocator_3212;
 
-import com.javarush.task.task32.task3212.contex.InitialContext;
-import com.javarush.task.task32.task3212.service.Service;
+//import com.javarush.task.task32.task3212.contex.InitialContext;
+//import com.javarush.task.task32.task3212.service.Service;
+import z_OOP_BiG_Pack.ServiceLocator_3212.contex.*;
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
 
-import java.io.Serializable;
 
 // https://javarush.ru/tasks/com.javarush.task.task32.task3212#discussion
 // задача понравилась решил сам, легко _ но интересная так что в B of The B

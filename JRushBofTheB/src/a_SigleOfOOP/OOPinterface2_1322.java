@@ -12,7 +12,7 @@ package a_SigleOfOOP;
 //        •	Класс StringObject должен реализовывать интерфейс SimpleObject.
 //        •	Интерфейс SimpleObject в классе StringObject должен быть реализован с параметром типа String.
 //        •	В классе StringObject реализовать метод getInstance интерфейса SimpleObject.
-//        •	Класс StringObject должен существовать в классе Solution.
+//        •	Класс StringObject должен существовать в классе Solution_3105.
 //        •	Класс StringObject должен быть статическим.
 public class OOPinterface2_1322 {
     public static void main(String[] args) throws Exception {

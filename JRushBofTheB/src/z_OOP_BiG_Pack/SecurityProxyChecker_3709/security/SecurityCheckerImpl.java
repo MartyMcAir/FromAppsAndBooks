@@ -1,4 +1,4 @@
-package com.javarush.task.task37.task3709.security;
+package z_OOP_BiG_Pack.SecurityProxyChecker_3709.security;
 
 public class SecurityCheckerImpl implements SecurityChecker {
     @Override

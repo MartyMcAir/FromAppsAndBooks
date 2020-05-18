@@ -1,8 +1,8 @@
-package com.javarush.task.task37.task3709;
+package z_OOP_BiG_Pack.SecurityProxyChecker_3709;
 
-import com.javarush.task.task37.task3709.connectors.Connector;
-import com.javarush.task.task37.task3709.connectors.SecurityProxyConnector;
-import com.javarush.task.task37.task3709.connectors.SimpleConnector;
+import z_OOP_BiG_Pack.SecurityProxyChecker_3709.connectors.Connector;
+import z_OOP_BiG_Pack.SecurityProxyChecker_3709.connectors.SecurityProxyConnector;
+import z_OOP_BiG_Pack.SecurityProxyChecker_3709.connectors.SimpleConnector;
 
 /* 
 Security Proxy

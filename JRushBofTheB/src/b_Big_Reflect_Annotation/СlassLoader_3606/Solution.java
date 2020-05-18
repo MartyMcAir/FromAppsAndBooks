@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3606;
+package b_Big_Reflect_Annotation.СlassLoader_3606;
 
 import java.io.File;
 import java.io.FileInputStream;

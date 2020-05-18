@@ -1,6 +1,6 @@
-package z_OOP_BiG_Pack.OOP_MVC_3608.model;
+package z_OOP_BiG_Pack.MVC_3608.model;
 
-import z_OOP_BiG_Pack.OOP_MVC_3608.bean.User;
+import z_OOP_BiG_Pack.MVC_3608.bean.User;
 
 import java.util.ArrayList;
 import java.util.List;

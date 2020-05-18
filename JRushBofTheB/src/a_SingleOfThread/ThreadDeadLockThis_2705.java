@@ -4,7 +4,7 @@ package a_SingleOfThread;
 Второй вариант deadlock
 */
 // https://javarush.ru/tasks/com.javarush.task.task27.task2705#discussion
-// В методе secondMethod расставь synchronized блоки так, чтобы при использовании класса Solution
+// В методе secondMethod расставь synchronized блоки так, чтобы при использовании класса Solution_3105
 // нитями образовывался deadlock.
 public class ThreadDeadLockThis_2705 {
     private final Object lock = new Object();

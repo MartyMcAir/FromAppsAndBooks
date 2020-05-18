@@ -1,7 +1,10 @@
-package com.javarush.task.task32.task3212.contex;
+package z_OOP_BiG_Pack.ServiceLocator_3212.contex;
 
-import com.javarush.task.task32.task3212.service.impl.EJBServiceImpl;
-import com.javarush.task.task32.task3212.service.impl.JMSServiceImpl;
+//import com.javarush.task.task32.task3212.service.impl.EJBServiceImpl;
+//import com.javarush.task.task32.task3212.service.impl.JMSServiceImpl;
+
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.*;
+import z_OOP_BiG_Pack.ServiceLocator_3212.service.impl.*;
 
 public class InitialContext {
     public Object lookup(String jndiName) {

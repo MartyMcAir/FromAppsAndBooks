@@ -1,4 +1,4 @@
-package b_BigTusks.UrlShortener_3310;
+package b_BigTusks.ShortenerGuavaMapJUnit_3310;
 
 public class ExceptionHandler {
     public static void log(Exception e) {

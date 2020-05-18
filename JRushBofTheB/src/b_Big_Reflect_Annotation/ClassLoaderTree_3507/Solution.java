@@ -1,12 +1,9 @@
-package com.javarush.task.task35.task3507;
+package b_Big_Reflect_Annotation.ClassLoaderTree_3507;
 
-import javax.security.auth.login.AccountNotFoundException;
 import java.io.*;
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Modifier;
-import java.nio.file.*;
-import java.nio.file.attribute.BasicFileAttributes;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -88,7 +85,7 @@ public class Solution {
             @Override
             public Class<?> findClass(String className) throws ClassNotFoundException {
                 try {
-                    // fetchClassFromFS(..) - байтовая магия
+                    // fetchClassFromFS(..) - вернет массив байтов файла из пути
                     byte b[] = myFetchClassFromFS(finalPathToAnimals + className + ".class");
                     return defineClass(null, b, 0, b.length);
                 } catch (FileNotFoundException ex) {

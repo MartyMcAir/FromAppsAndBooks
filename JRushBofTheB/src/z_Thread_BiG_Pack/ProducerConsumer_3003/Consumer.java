@@ -1,4 +1,4 @@
-package com.javarush.task.task30.task3003;
+package z_Thread_BiG_Pack.ProducerConsumer_3003;
 
 import java.util.concurrent.TransferQueue;
 
