@@ -77,351 +77,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/AlgoPaintDraw_3905.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/BinaryToDecimal_3903.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/Binary_3902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/Fibonanchi3_3904.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicStr_3901.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathPowLogarifm_3910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/Matrix_Square_3912.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MegaMath_3404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/PalindromASCII_3908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/StringINstr_3909.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_DateTime/DartaAPIJava8_4009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_DateTime/DateTimeAPI_4012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_DateTime/ShowDateAndTime_4007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_DateTime/ShowDateAndTime_4008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/DedLockForSocket_4005/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/DedLockForSocket_4005/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/DedLockForSocket_4005/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/DedLockForSocket_4005/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/EmailMultiPart_4003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/ResponseCode_4010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/SendPost_4001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/Socket_4006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_HTTPURLemail/URParameters_4011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Book_Java_MikeMakGrat/data/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_pool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_pool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FromOthApps/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FromOthApps/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JRushBofTheB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JRushBofTheB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/Apteka_1715/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/ConsoleArchiver_3110/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/ConsoleCrud2_1711/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/ConsoleCrud_1710/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/Crossword_2027_Z/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/GenericReflectionQuery_2309/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/HippoDrome_2113/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/ImageReader_1631/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/META-INF/JRushBofTheB.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JRushBofTheB/META-INF/JRushBofTheB.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/MultiValuteStash_1417/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/RecursiveThreadShortStr_2201/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/Refactoring_2909/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/Restaurant_1712/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/RetrievesInArray_2026_Z/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/RobotBattle_1328/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/SnaikConsole_2312/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/Turnip_1327/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/WordChain_2209_Z/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/z_Html_Editor_3209/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/z_OOP_BiG_Pack/OOP_MVC_3608/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/z_OOP_BiG_Pack/OOP_PatternAdapter_1904/Условие.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/ComparatorStock_2412.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/ComparatorStock_2412.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsExtends_2406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPInnerClsExtends_2406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPbooksAuthor_1504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPbooksAuthor_1504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPfamilyTree_0824.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPfamilyTree_0824.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinstanceOfPerson_1411.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinstanceOfPerson_1411.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface2_1322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SigleOfOOP/OOPinterface2_1322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/CocialNewFriendMarix_3611.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/CocialNewFriendMarix_3611.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/Factoriztion_3403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/Factoriztion_3403.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/HanoyaTowers_3411.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/HanoyaTowers_3411.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicRecursion_2913.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicRecursion_2913.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathArmstrongNumbers_2015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathArmstrongNumbers_2015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/RomanToDecimal_3714.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/RomanToDecimal_3714.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/UnicCharASCIITreeSet_3605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/UnicCharASCIITreeSet_3605.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfException/ExceptionStackThread_2512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfException/ExceptionStackThread_2512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileCrudTable_1827.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileCrudTable_1827.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileSaveLoadNoSerializable_2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/FileSaveLoadNoSerializable_2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/JRushFiles_3103_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/JRushFiles_3103_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/MergeTablesInFile_1916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/MergeTablesInFile_1916.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/ReverseBytesOfFile_1809.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/ReverseBytesOfFile_1809.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/SearchFileVisitor_3111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/SearchFileVisitor_3111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfFileIO/Three_FileVisitResult_3101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfFileIO/Three_FileVisitResult_3101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexDateStrParser_1921.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexDateStrParser_1921.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexSplitWords_2207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexSplitWords_2207.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexUrlParser_1527.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfRegex/RegexUrlParser_1527.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAccepMakeProposal_1709.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAccepMakeProposal_1709.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAirPlane_1615.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAirPlane_1615.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAtomicArrayPlus_1722.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadAtomicArrayPlus_1722.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadDeadLockThis_2705.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadDeadLockThis_2705.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadFactoryAtomic_2802.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadFactoryAtomic_2802.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadJoinOrder_1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadJoinOrder_1629.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMessage_1632.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMessage_1632.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMultipleJoinSort_1702.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadMultipleJoinSort_1702.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRecursiveTusk_3004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRecursiveTusk_3004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRecursive_1623.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadRecursive_1623.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2607.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2607.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadTimerTask_2511.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadTimerTask_2511.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadYield_2513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadYield_2513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/DigitToWord_1924.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/DigitToWord_1924.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/FirstLatterUpperCase_0823.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/FirstLatterUpperCase_0823.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/InvertedWords_2207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/InvertedWords_2207.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/Iterator_3701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/Iterator_3701.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/ListTenThousandsElem_0808.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/ListTenThousandsElem_0808.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/MyMultiMap_3610.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/MyMultiMap_3610.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsAlphabetical_0830.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsAlphabetical_0830.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsDigits_0930.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/OrderWordsDigits_0930.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/TenMinNumber_1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/TenMinNumber_1020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/WideTree/CustomTreeNotMy4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/RedBlackTree_VV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/RedBlackTree_VV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_Tree/redBlackTree_3604/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_Tree/Еьз.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/BaseObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/BaseObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Bomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Bomb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/KeyboardObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/KeyboardObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Rocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Space.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/SpaceShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Ufo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleSpaceInvaders_2515/Ufo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/FigureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/FigureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/KeyboardObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/KeyboardObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tetris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tmp9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ConsoleTetris_2213/Tmp9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/SolutionCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/SolutionCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/SolutionCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Crossword_2027_Z/SolutionCopy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Model_My4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/MoveEfficiency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/MoveEfficiency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Game_2048_3513/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/Convertable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/Convertable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/ConvertableUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Generic_3505/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/retrievers/CachingProxyRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/retrievers/CachingProxyRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/retrievers/OriginalRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LRUCache_3708/retrievers/OriginalRetriever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/LogParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/LogParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/forLogParser/EventRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/forLogParser/EventRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/forLogParser/LogRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/forLogParser/LogRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser_27416.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser_27416.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser_714.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser_714.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser__28459.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/LogParser__28459.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/MyParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/MyParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/myTmp/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/DateQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/DateQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/EventQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/EventQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/IPQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/IPQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/QLQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/QLQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/UserQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/LogParser_3913/query/UserQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/RecursiveThreadShortStr_2201/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/RecursiveThreadShortStr_2201/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/Refactoring_2909/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/Refactoring_2909/car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/ExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Shortener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Shortener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Solution_V1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Solution_V1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/DualHashBidiMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/DualHashBidiMapStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/Entry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/FileBucket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/FileBucket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/FileStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/FileStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/HashBiMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/HashBiMapStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/HashMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/HashMapStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashBiMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashBiMapStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy_My.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy_My.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy_V3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/OurHashMapStorageStrategy_V3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/StorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/strategy/StorageStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/tests/FunctionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/tests/FunctionalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/tests/SpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/ShortenerGuavaMapJUnit_3310/tests/SpeedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Aggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Aggregator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller_WithScan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Controller_WithScan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy_V2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/HHStrategy_V2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/MoikrugStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/MoikrugStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/MoikrugStrategy_My.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/MoikrugStrategy_My.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Provider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/model/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/view/HtmlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/view/HtmlView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/SiteParser_JSOUP_2810/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/WordChain_2209_Z/NotMy5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/WordChain_2209_Z/NotMy5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/zipPack/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/zipPack/SolutionV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/zipPack_3105_3106/FromUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/zipPack_3105_3106/Stack_ChunkedZipped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/zipPack_3105_3106/Stack_ChunkedZipped.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_BigTusks/zipPack_3105_3106/Stack_Zip_Pack2_Split.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_BigTusks/zipPack_3105_3106/Stack_Zip_Pack2_Split.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Changelog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Changelog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Revision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Revision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/AnnotationI_InAnnotation_3810/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/Fox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/PrepareMyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/PrepareMyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/SomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_ReflectionValues_3812/SomeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_Single_3811/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_Single_3811/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_Single_3811/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Annotation_Single_3811/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/SolutionMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/SolutionMy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Elephant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/ClassLoaderTree_3507/data/Sheep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/IncorrectAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/IncorrectAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/JavaRushBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/JavaRushBankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/LongPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/LongPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/ReflectionAnnotationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/ReflectionAnnotationUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/FiledChecker_Reflect_3809/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/AbstractDbSelectExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/AbstractDbSelectExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/NamedItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/NamedItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/Subscription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/GenericReflectionQuery_2309/vo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/HiddenClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/HiddenClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/SolutionMy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/SolutionMy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/SolutionV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/SolutionV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/FirstHiddenClassImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/FirstHiddenClassImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/PackageAccessClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/PackageAccessClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/SecondHiddenClassImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b_Big_Reflect_Annotation/СlassLoader_3606/data/second/SecondHiddenClassImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/PersonScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/PersonScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Adapter_1904/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/AbstractLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/AbstractLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/ConsoleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/ConsoleLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/FileLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainCommon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMaxSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMaxSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMinSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMinSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain_V3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain_V3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ReafactoringGuru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ReafactoringGuru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/SearchFileVisitor_3111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/SearchFileVisitor_3111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServer3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServer4LambdaFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/ChainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/ChainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/LinkedMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/RunTestChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp2/RunTestChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/PhoneLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/PhoneLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/SmsLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/SmsLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/SpaceShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/AbstractCrewMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/AbstractCrewMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/CabinBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/CabinBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/Captain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/Captain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/FirstMate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChaoinOfResponsobility_3713/space/crew/FirstMate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/decorators/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/decorators/RedShapeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/decorators/ShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/decorators/ShapeDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/DecoratorShape_3710/shapes/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/FactoryProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/FemaleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/FemaleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/KidGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/KidGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/TeenGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/TeenGirl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/female/Woman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/KidBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/KidBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/MaleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/MaleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/TeenBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/Factory_3702/male/TeenBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/dao/mock/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/dao/mock/DataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/FakeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/FakeModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/MainModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/MainModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/ModelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/ModelData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/model/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/EditUserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/EditUserView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/UsersView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/UsersView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/view/tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_3608/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/MVC_Simple_3601/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPextendsClass_2411/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/MyFirstV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/OOPintrfAnonumusPuzzle_2405/MyFirstV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/Connector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/SecurityProxyConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/SecurityProxyConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/SimpleConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/connectors/SimpleConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/security/SecurityChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/security/SecurityChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/security/SecurityCheckerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/SecurityProxyChecker_3709/security/SecurityCheckerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/Cache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/ServiceLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/ServiceLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/contex/InitialContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/contex/InitialContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/impl/EJBServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/impl/EJBServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/impl/JMSServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ServiceLocator_3212/service/impl/JMSServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/ShareItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/ShareItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/ProducerConsumer_3003/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zzz_Tmp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zzz_Tmp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/concurrency/executors/GCDRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/concurrency/executors/GCDRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/generics/company/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/generics/company/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/LambdaFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/LambdaFunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/LambdaScopeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/LambdaScopeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/TransformUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/lambdas/TransformUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/streams/StreamsOverviewMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UdemyTasks/JavaAlexVasko/JavaLessonsP1_P2/src/com/javalesson/streams/StreamsOverviewMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JRushBofTheB/META-INF/JRushBofTheB.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_Thread_BiG_Pack/Tmp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -458,15 +121,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586541523076" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../../../z_IDE_Setting/a_aLibrary/tests" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaRushTasks" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.mallowigi.config" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -491,7 +158,7 @@
       <recent name="zzz_Tmp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlgoPaintDraw_3905">
+  <component name="RunManager" selected="Application.Tmp">
     <configuration name="FunctionalTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="JRushBofTheB" />
       <extension name="coverage">
@@ -503,23 +170,6 @@
       <option name="PACKAGE_NAME" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.tests" />
       <option name="MAIN_CLASS_NAME" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.tests.FunctionalTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalTest.testOurHashBiMapStorageStrategy" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.tests" />
-      <option name="MAIN_CLASS_NAME" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.tests.FunctionalTest" />
-      <option name="METHOD_NAME" value="testOurHashBiMapStorageStrategy" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -584,13 +234,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android JUnit.FunctionalTest" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Tmp" />
+      <item itemvalue="Application.AlgoPaintDraw_3905" />
+      <item itemvalue="Application.BinaryToDecimal_3903" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.AlgoPaintDraw_3905" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BinaryToDecimal_3903" />
         <item itemvalue="Android JUnit.FunctionalTest" />
-        <item itemvalue="Android JUnit.FunctionalTest.testOurHashBiMapStorageStrategy" />
       </list>
     </recent_temporary>
   </component>
@@ -604,8 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575870620416</updated>
+      <workItem from="1593337638916" duration="484000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -624,6 +286,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1536" y="198" key="#Inspections/0.0.2560.1040@0.0.2560.1040" timestamp="1588168469906" />
+    <state x="101" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593338061157">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="101" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1593338061157" />
     <state x="1715" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1588170938510">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -632,34 +298,40 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1630" y="171" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1588171534417" />
-    <state x="1690" y="261" key="FileChooserDialogImpl" timestamp="1589176485759">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1690" y="264" key="FileChooserDialogImpl" timestamp="1593338122778">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="1690" y="261" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1589176485759" />
-    <state width="1326" height="272" key="GridCell.Tab.0.bottom" timestamp="1589200696743">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1690" y="264" key="FileChooserDialogImpl/0.0.2560.1050@0.0.2560.1050" timestamp="1593338122778" />
+    <state width="1235" height="278" key="GridCell.Tab.0.bottom" timestamp="1593338128981">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1326" height="272" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1589200696743" />
-    <state width="1326" height="272" key="GridCell.Tab.0.center" timestamp="1589200696742">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1235" height="278" key="GridCell.Tab.0.bottom/0.0.2560.1050@0.0.2560.1050" timestamp="1593338128981" />
+    <state width="1235" height="278" key="GridCell.Tab.0.center" timestamp="1593338128980">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1326" height="272" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1589200696742" />
-    <state width="1326" height="272" key="GridCell.Tab.0.left" timestamp="1589200696742">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1235" height="278" key="GridCell.Tab.0.center/0.0.2560.1050@0.0.2560.1050" timestamp="1593338128980" />
+    <state width="1235" height="278" key="GridCell.Tab.0.left" timestamp="1593338128980">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1326" height="272" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1589200696742" />
-    <state width="1326" height="272" key="GridCell.Tab.0.right" timestamp="1589200696742">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1235" height="278" key="GridCell.Tab.0.left/0.0.2560.1050@0.0.2560.1050" timestamp="1593338128980" />
+    <state width="1235" height="278" key="GridCell.Tab.0.right" timestamp="1593338128981">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1326" height="272" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1589200696742" />
+    <state width="1235" height="278" key="GridCell.Tab.0.right/0.0.2560.1050@0.0.2560.1050" timestamp="1593338128981" />
     <state x="1288" y="170" width="713" height="763" key="NewModule_or_Project.wizard" timestamp="1588169788250">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1288" y="170" width="713" height="763" key="NewModule_or_Project.wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1588169788250" />
-    <state x="1108" y="126" key="SettingsEditor" timestamp="1589176486945">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="175" y="50" key="SettingsEditor" timestamp="1593337989227">
+      <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="1108" y="126" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589176486945" />
+    <state x="175" y="50" key="SettingsEditor/0.0.2560.1050@0.0.2560.1050" timestamp="1593337989227" />
     <state x="1381" y="178" width="943" height="614" key="find.popup" timestamp="1589187065558">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
