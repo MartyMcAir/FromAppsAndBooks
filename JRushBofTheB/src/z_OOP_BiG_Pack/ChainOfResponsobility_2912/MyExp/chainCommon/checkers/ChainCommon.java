@@ -1,6 +1,4 @@
-package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
-
-import z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp2.LinkedChain;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.checkers;
 
 import java.io.IOException;
 
@@ -10,7 +8,7 @@ public abstract class ChainCommon {
 
     public abstract boolean check() throws IOException;
 
-    ChainCommon linkWith(ChainCommon linkedChain) { // метод постройки цепей
+    public ChainCommon linkWith(ChainCommon linkedChain) { // метод постройки цепей
         if (firstChain == null) {
             firstChain = this;
         }

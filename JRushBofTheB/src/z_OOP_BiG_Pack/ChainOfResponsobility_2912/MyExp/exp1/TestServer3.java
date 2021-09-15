@@ -1,4 +1,6 @@
-package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.exp1;
+
+import z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.checkers.ChainCommon;
 
 import java.io.IOException;
 

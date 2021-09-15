@@ -1,11 +1,12 @@
-package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon;
+
+import z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.checkers.*;
 
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class MyVisitChain_V3 extends SimpleFileVisitor<Path> {
     // Можно задавать либо один, либо сразу несколько критериев для поиска.
@@ -23,10 +24,11 @@ public class MyVisitChain_V3 extends SimpleFileVisitor<Path> {
 //        searchFileVisitor.setPartOfName("new"); // встречающееся в названии файла
         searchFileVisitor.setPartOfContent("Pokemon"); // встречающееся в содержимом файла
 //        searchFileVisitor.setMinSize((1024 * 1024) * 4); // минимал размер файла 10мб
+//        searchFileVisitor.setMinSize((1024 * 1024)); // 1mb?
 //        searchFileVisitor.setMinSize(0); // минимал размер файла 10мб
-        searchFileVisitor.setMaxSize((1024 * 1024) * 11); // максимал размер файла 100мб
+//        searchFileVisitor.setMaxSize((1024 * 1024) * 11); // максимал размер файла 100мб
 
-        Files.walkFileTree(Paths.get("c:\\z_n\\new_test_folder\\ttt\\"), searchFileVisitor);
+        Files.walkFileTree(Paths.get("C:\\z_dev\\z_test_forJava"), searchFileVisitor);
 
         List<Path> foundFiles = searchFileVisitor.getFoundFiles();
         for (Path file : foundFiles) {

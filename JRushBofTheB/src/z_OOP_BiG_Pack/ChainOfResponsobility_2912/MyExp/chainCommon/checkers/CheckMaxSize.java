@@ -1,11 +1,13 @@
-package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp;
+package z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.checkers;
+
+import z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.MyVisitChain_V3;
 
 import java.io.IOException;
 
 public class CheckMaxSize extends ChainCommon { // подкласс базового класса цепи
     private MyVisitChain_V3 objForCheck; // объект что надо проверять
 
-    CheckMaxSize(MyVisitChain_V3 objForCheck) {
+    public CheckMaxSize(MyVisitChain_V3 objForCheck) {
         this.objForCheck = objForCheck;
     }
 
