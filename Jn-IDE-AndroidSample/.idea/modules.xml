@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/BasicSample/BasicSample.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/BasicSample/BasicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/BigInteger/BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/BooleanWrapperClass/BooleanWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/BooleanWrapperClass/BooleanWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/BreakStatment/BreakStatment.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/BreakStatment/BreakStatment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/ByteWrapperClass/ByteWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/ByteWrapperClass/ByteWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/Calender/Calender.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/Calender/Calender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Collections/Collections.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/ContinueStatment/ContinueStatment.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/ContinueStatment/ContinueStatment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/DoubleWrapperClass/DoubleWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/DoubleWrapperClass/DoubleWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Enumeration/Enumeration.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Enumeration/Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/Final/Final.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/FloatWrapperClass/FloatWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/FloatWrapperClass/FloatWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Hashtable/Hashtable.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Hashtable/Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/IntegerWrapperClass/IntegerWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/IntegerWrapperClass/IntegerWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaDate/JavaDate.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaDate/JavaDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaDateFormatting/JavaDateFormatting.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaDateFormatting/JavaDateFormatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaString/JavaString.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaString/JavaString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaStringBuffer/JavaStringBuffer.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/JavaStringBuffer/JavaStringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jn-IDE-AndroidSample.iml" filepath="$PROJECT_DIR$/.idea/Jn-IDE-AndroidSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/LinkedHashMap/LinkedHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollectionsAndDataStructures/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/JavaCollectionsAndDataStructures/LinkedHashSet/LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/LongWrapperClass/LongWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/LongWrapperClass/LongWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/Operators/Operators.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/ShortWrapperClass/ShortWrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClassesAndJavaLangPackage/ShortWrapperClass/ShortWrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/SortingAlgorithms/SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/Static/Static.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonlyUsedJavaClasses/StringTokenizer/StringTokenizer.iml" filepath="$PROJECT_DIR$/CommonlyUsedJavaClasses/StringTokenizer/StringTokenizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/Thread/Thread.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLanguageFundamentals/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/JavaLanguageFundamentals/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>

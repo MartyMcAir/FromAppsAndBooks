@@ -24,15 +24,15 @@ public class MathNearestNumber_0409 {
 
     public static void displayClosestToTen(int a, int b) {
         int res = 0, tmpA, tmpB;
-    tmpA = 10 - a;
-    tmpB = 10 - b;
-        if (abs(tmpA) < abs(tmpB)){
-        res =a;
-    }else{
-        res =b;
-    }
+        tmpA = 10 - a;
+        tmpB = 10 - b;
+        if (abs(tmpA) < abs(tmpB)) {
+            res = a;
+        } else {
+            res = b;
+        }
         System.out.println(res);
-}
+    }
 
     public static int abs(int a) {
         if (a < 0) {
@@ -40,5 +40,10 @@ public class MathNearestNumber_0409 {
         } else {
             return a;
         }
+    }
+
+    static int abs2(int a) {
+        if (a < 0) return a * -1;
+        else return a;
     }
 }

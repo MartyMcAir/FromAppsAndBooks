@@ -49,8 +49,8 @@ public class ThreadSafe_2608 {
                 .map(Character::toLowerCase) // полученное в нижний регистр
                 .forEach(leftTORight::appendCodePoint); // сохраняем в StringBuilder
         // делаем ее реверс
-        StringBuilder reghtToLeft = new StringBuilder(leftTORight).reverse();
+        StringBuilder rightToLeft = new StringBuilder(leftTORight).reverse();
         // сравниваем строки и получаем boolean result
-        boolean res = leftTORight.toString().equals(reghtToLeft.toString());
+        boolean res = leftTORight.toString().equals(rightToLeft.toString());
     }
 }

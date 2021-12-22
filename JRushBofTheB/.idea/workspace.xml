@@ -77,27 +77,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/checkers/CheckPartOfContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/Behaviors/AttackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/TestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/behaviors/AngryBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/behaviors/CarefulBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/behaviors/DefaultBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/rensponsibillityPattern/behaviors/IBehavior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/checkers/ChainCommon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/ChainRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/exp1/ChainRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMaxSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/checkers/CheckMaxSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckMinSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/checkers/CheckMinSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/exp1/CheckOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/CheckPartOfName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/checkers/CheckPartOfName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/MyVisitChain_V3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/chainCommon/MyVisitChain_V3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServ4_LambdF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServ4_LambdF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/TestServer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912/MyExp/exp1/TestServer3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,28 +294,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1304" height="275" key="GridCell.Tab.0.bottom" timestamp="1614600169529">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1304" height="275" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1614600169528" />
-    <state width="1304" height="275" key="GridCell.Tab.0.center" timestamp="1614600169528">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1304" height="275" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1614600169528" />
-    <state width="1304" height="275" key="GridCell.Tab.0.left" timestamp="1614600169528">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1304" height="275" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1614600169528" />
-    <state width="1304" height="275" key="GridCell.Tab.0.right" timestamp="1614600169528">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state width="1304" height="275" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1614600169528" />
-    <state x="1753" y="240" width="583" height="566" key="find.popup" timestamp="1614600060688">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="1753" y="240" width="583" height="566" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1614600060688" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
