@@ -1,359 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ApacheCommons" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ApacheCommons" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Compress" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:aJVDroidSample" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:aJVDroidSample" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ApacheCommons" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:aJVDroidSample" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:ApacheCommons" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Compress" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="">
+    <list default="true" id="5230c275-8197-431e-bee7-c935dfabc0c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/FromAppsAndBooks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_pool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Tmp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/MathNearestNumber_0409.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleOfThread/ThreadSafe_2608.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JRushBofTheB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JRushBofTheB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSerialNumber_0424.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSerialNumber_0424.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSumThreeDigits_0132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/LogicSumThreeDigits_0132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/PalindromASCII_3908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/PalindromASCII_3908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/StringINstr_3909.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleMathSimpleLogicAlgo/StringINstr_3909.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/LetterCounter_1012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/LetterCounter_1012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_SingleTusks/SameNames_0817.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_SingleTusks/SameNames_0817.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jn-IDE-AndroidSample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jn-IDE-AndroidSample/.idea/Jn-IDE-AndroidSample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jn-IDE-AndroidSample/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jn-IDE-AndroidSample/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jn-IDE-AndroidSample/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JRushBofTheB$ZipFileManager.ic" NAME="ZipFileManager Coverage Results" MODIFIED="1578483285949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>z_Tmp_Test.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="255" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1bDYoVOfXEIomB6ygSUQ6AGdR6i" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\z_dev\Editors\IntelliJ_IDEA_Com2020\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
+  <component name="ProjectId" id="23HJKfs7fYaBEwTGbP8inJtTrlr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586541523076" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../../../z_IDE_Setting/a_aLibrary/tests" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/z_OOP_BiG_Pack/ChainOfResponsobility_2912" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp" />
-      <recent name="zzz_Tmp" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="zzz_Tmp" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="a_SingleMathSimpleLogicAlgo" />
-      <recent name="z_DateTime" />
-      <recent name="z_HTTPURLemail" />
-      <recent name="z_HTTPURL" />
-      <recent name="b_BigTusks.SiteParser_JSOUP_2810.vo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\martymcair\OneDrive\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\z_OOP_BiG_Pack\ChainOfResponsobility_2912" />
-      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\a_SingleMathSimpleLogicAlgo" />
-      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\z_HTTPURLemail\DedLockForSocket_4005" />
-      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\b_BigTusks\UrlShortener_3310\strategy" />
-      <recent name="C:\z_n\Dropbox\GitHub\FromAppsAndBooks\JRushBofTheB\src\b_BigTusks\UrlShortener_3310\tests" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.MyVisitChain_V3">
-    <configuration name="ChainRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.exp1.ChainRunner" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.exp1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyVisitChain_V3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.chainCommon.MyVisitChain_V3" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.exp1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReafactoringGuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.ReafactoringGuru" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp.exp1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunTestChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp2.RunTestChain" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="z_OOP_BiG_Pack.ChainOfResponsobility_2912.MyExp2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.Solution" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="z_OOP_BiG_Pack.ChaoinOfResponsobility_3713.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.Solution" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_BigTusks.ShortenerGuavaMapJUnit_3310.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_Big_Reflect_Annotation.FiledChecker_Reflect_3809.Solution" />
-      <module name="JRushBofTheB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_Big_Reflect_Annotation.FiledChecker_Reflect_3809.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Tmp" />
-      <item itemvalue="Application.ReafactoringGuru" />
-      <item itemvalue="Application.RunTestChain" />
-      <item itemvalue="Application.ChainRunner" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.MyVisitChain_V3" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MyVisitChain_V3" />
-        <item itemvalue="Application.RunTestChain" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.ChainRunner" />
-        <item itemvalue="Application.ReafactoringGuru" />
-      </list>
-    </recent_temporary>
+    <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="83090fc8-908b-4595-a178-684cbb2f941d" name="Default Changelist" comment="" />
-      <created>1575870620416</created>
+      <changelist id="5230c275-8197-431e-bee7-c935dfabc0c1" name="Default Changelist" comment="" />
+      <created>1641385018825</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575870620416</updated>
-      <workItem from="1593337638916" duration="484000" />
-      <workItem from="1593356429222" duration="61000" />
+      <updated>1641385018825</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/z_Tmp_Test/ZipFileManager.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="simpleUML.UMLToolWindowPlugin">
-    <General>
-      <option name="birdViewUpdateDelay" value="2000" />
-      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
-    </General>
-    <Classdiagram>
-      <option name="diagramTitleFont" value="SansSerif,1,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="defaultFieldsExpanded" value="false" />
-      <option name="defaultContructorsExpanded" value="false" />
-      <option name="defaultMethodsExpanded" value="false" />
-      <option name="showParameters" value="true" />
-      <option name="showTooltip" value="true" />
-      <option name="showReturnValues" value="true" />
-      <option name="longModifier" value="true" />
-      <option name="implementsBehaviour" value="1" />
-      <option name="extendsBehaviour" value="1" />
-      <option name="compartmentBehaviour" value="1" />
-      <option name="interfaceBackgroundColor" value="-6494306" />
-      <option name="abstractClassBackgroundColor" value="-1580132" />
-      <option name="classBackgroundColor" value="-6508057" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="quickSourceLinkColor" value="-16776961" />
-      <option name="quickDiagramLinkColor" value="-8454144" />
-      <option name="drawDecorations" value="false" />
-      <option name="hideFieldList" value="" />
-      <option name="showFieldList" value="" />
-      <option name="hideConstructorList" value="" />
-      <option name="showConstructorList" value="" />
-      <option name="hideMethodList" value="" />
-      <option name="showMethodList" value="" />
-      <option name="minimumFigureSize" value="0,0" />
-    </Classdiagram>
-    <Dependencydiagram>
-      <option name="diagramTitleFont" value="SansSerif,1,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="packageNameCompressionLevel" value="0" />
-    </Dependencydiagram>
-    <Packagediagram>
-      <option name="diagramTitleFont" value="SansSerif,0,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="packageBackgroundColor" value="-4144960" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="packageNameCompressionLevel" value="2" />
-    </Packagediagram>
   </component>
 </project>

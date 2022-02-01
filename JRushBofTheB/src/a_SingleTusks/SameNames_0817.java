@@ -9,7 +9,7 @@ import java.util.Map;
 */
 // https://javarush.ru/tasks/com.javarush.task.task08.task0817
 //Создать словарь (Map<String, String>) занести в него десять записей по принципу "фамилия" - "имя".
-//        Удалить людей, имеющих одинаковые имена.
+//        Удалить людей, иеющих одинаковые иммена.
 //
 //        Требования:
 //        •	Программа не должна выводить текст на экран.
@@ -19,6 +19,10 @@ import java.util.Map;
 //        •	Метод removeTheFirstNameDuplicates() должен удалять из словаря всех людей, имеющие одинаковые имена.
 //        •	Метод removeTheFirstNameDuplicates() должен вызывать метод removeItemFromMapByValue().
 public class SameNames_0817 {
+    public static void main(String[] args) {
+        removeTheFirstNameDuplicates(createMap());
+    }
+
     public static HashMap<String, String> createMap() {
         //напишите тут ваш код
         HashMap<String, String> map = new HashMap<String, String>();
@@ -123,9 +127,5 @@ public class SameNames_0817 {
             if (pair.getValue().equals(value))
                 map.remove(pair.getKey());
         }
-    }
-
-    public static void main(String[] args) {
-        removeTheFirstNameDuplicates(createMap());
     }
 }

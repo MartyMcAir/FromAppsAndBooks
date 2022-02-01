@@ -1,5 +1,7 @@
 package a_SingleTusks;
 
+import z_Thread_BiG_Pack.T_PhaserPlantZombie_2809.Character;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -22,7 +24,7 @@ import java.util.Map;
 //        д 0
 //        ...
 //        я 9
-//
+// ПОПУЛЯРНОСТЬ РЕЙТИНГ И ПРОЧЕЕ
 //        Требования:
 //        •	Программа должна 10 раз считывать данные с клавиатуры.
 //        •	Программа должна выводить текст на экран.

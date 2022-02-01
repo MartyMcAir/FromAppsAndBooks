@@ -4,7 +4,8 @@ package a_SingleMathSimpleLogicAlgo;
 Одно изменение
 */
 // https://javarush.ru/tasks/com.javarush.task.task39.task3909#discussion
-// Реализуй метод isOneEditAway(String first, String second) который будет возвращать true, если возможно изменить/добавить/удалить один символ в одной из строк и получить другую.
+// Реализуй метод isOneEditAway(String first, String second) который будет возвращать true,
+// если возможно изменить/добавить/удалить один символ в одной из строк и получить другую.
 //
 //Символы в анализируемой строке ограничены кодировкой ASCII.
 //Регистр символов учитывается.

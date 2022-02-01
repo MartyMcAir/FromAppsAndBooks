@@ -1,5 +1,7 @@
 package a_SingleMathSimpleLogicAlgo;
 
+import z_Thread_BiG_Pack.T_PhaserPlantZombie_2809.Character;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -17,6 +19,15 @@ public class PalindromASCII_3908 {
     public static void main(String[] args) {
         System.out.println(isPalindromePermutation("wqewe"));
         System.out.println(isPalindromePermutation("tot"));
+
+        String s = "аваZ";
+        StringBuilder leftTORight = new StringBuilder();
+        s.chars(). // символы строки
+                // фильтруем символы оставив только буквы и цифры
+                        filter(Character::isLetterOrDigit)
+                .map(Character::toLowerCase) // полученное в нижний регистр
+                .forEach(leftTORight::appendCodePoint); // сохраняем в StringBuilder
+        System.out.println(leftTORight);
     }
 
     public static boolean isPalindromePermutation(String s) {

@@ -4,7 +4,8 @@ package a_SingleMathSimpleLogicAlgo;
 Сумма цифр трехзначного числа
 */
 // https://javarush.ru/tasks/com.javarush.task.task01.task0132
-// Напиши код метода sumDigitsInNumber(int number). Метод на вход принимает целое трехзначное число. Нужно посчитать сумму цифр этого числа, и вернуть эту сумму.
+// Напиши код метода sumDigitsInNumber(int number). Метод на вход принимает целое трехзначное число.
+// Нужно посчитать сумму цифр этого числа, и вернуть эту сумму.
 //
 //Пример:
 //Метод sumDigitsInNumber вызывается с параметром 546.
